@@ -3,6 +3,8 @@
 ## CT
 
 ## MRI
+### 2017
+#### SegAN Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[paper]](https://arxiv.org/abs/1706.01805)
 
 ## US
 
