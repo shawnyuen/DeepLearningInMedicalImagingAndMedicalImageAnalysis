@@ -8,14 +8,13 @@
 ## MRI
 ### 2016
 #### Medical Image Synthesis with Context-aware Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05362)
-### 2017
-#### 3D Fully Convolutional Networks for Subcortical Segmentation in MRI A Large-scale Study [[paper]](http://www.sciencedirect.com/science/article/pii/S1053811917303324) [[code]](https://github.com/josedolz/LiviaNET)
 
 ### 2017
 #### SegAN Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[paper]](https://arxiv.org/abs/1706.01805)
 #### Automatic Segmentation and Disease Classification Using Cardiac Cine MR Images [[paper]](https://arxiv.org/abs/1708.01141)
 #### Deep MR to CT Synthesis using Unpaired Data [[paper]](https://arxiv.org/abs/1708.01155)
 #### Multi-Planar Deep Segmentation Networks for Cardiac Substructures from MRI and CT [[paper]](https://arxiv.org/abs/1708.00983)
+#### 3D Fully Convolutional Networks for Subcortical Segmentation in MRI A Large-scale Study [[paper]](http://www.sciencedirect.com/science/article/pii/S1053811917303324) [[code]](https://github.com/josedolz/LiviaNET)
 
 ## US
 ### 2017
