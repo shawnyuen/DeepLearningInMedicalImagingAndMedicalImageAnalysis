@@ -1,4 +1,4 @@
-# DLinMedicalImaging
+# Deep Learning in Medical Imaging
 
 ## CT
 ### 2017
@@ -8,6 +8,8 @@
 ## MRI
 ### 2016
 #### Medical Image Synthesis with Context-aware Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05362)
+### 2017
+#### 3D Fully Convolutional Networks for Subcortical Segmentation in MRI A Large-scale Study [[paper]](http://www.sciencedirect.com/science/article/pii/S1053811917303324) [[code]](https://github.com/josedolz/LiviaNET)
 
 ### 2017
 #### SegAN Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[paper]](https://arxiv.org/abs/1706.01805)
@@ -25,7 +27,7 @@
 ### 2017
 #### Virtual PET Images from CT Data Using Deep Convolutional Networks Initial Results [[paper]](https://arxiv.org/abs/1707.09585)
 
-## funduscopy
+## Funduscopy
 ### 2017
 #### Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1706.09318) [[Keras+TF code]](https://bitbucket.org/woalsdnd/v-gan)
 
