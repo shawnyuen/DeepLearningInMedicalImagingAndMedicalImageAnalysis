@@ -15,6 +15,7 @@
 #### Deep MR to CT Synthesis using Unpaired Data [[paper]](https://arxiv.org/abs/1708.01155)
 #### Multi-Planar Deep Segmentation Networks for Cardiac Substructures from MRI and CT [[paper]](https://arxiv.org/abs/1708.00983)
 #### 3D Fully Convolutional Networks for Subcortical Segmentation in MRI A Large-scale Study [[paper]](http://www.sciencedirect.com/science/article/pii/S1053811917303324) [[code]](https://github.com/josedolz/LiviaNET)
+#### 2D-3D Fully Convolutional Neural Networks for Cardiac MR Segmentation [[paper]](https://arxiv.org/abs/1707.09813)
 
 ## US
 ### 2017
