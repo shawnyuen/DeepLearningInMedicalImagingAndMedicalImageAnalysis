@@ -17,6 +17,7 @@
 #### 3D Fully Convolutional Networks for Subcortical Segmentation in MRI A Large-scale Study [[paper]](http://www.sciencedirect.com/science/article/pii/S1053811917303324) [[code]](https://github.com/josedolz/LiviaNET)
 #### 2D-3D Fully Convolutional Neural Networks for Cardiac MR Segmentation [[paper]](https://arxiv.org/abs/1707.09813)
 #### Automatic 3D Cardiovascular MR Segmentation with Densely-Connected Volumetric ConvNets
+#### Deep Generative Adversarial Networks for Compressed Sensing Automates MRI [[paper]](https://arxiv.org/abs/1706.00051)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## US
 ### 2017
