@@ -5,6 +5,7 @@
 #### Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[paper]](https://arxiv.org/abs/1708.00961)
 #### Automatic Liver Segmentation Using an Adversarial Image-to-Image Network [[paper]](https://arxiv.org/abs/1707.08037)
 #### Sharpness-aware Low Dose CT Denoising Using Conditional Generative Adversarial Network [[paper]](https://arxiv.org/abs/1708.06453)
+#### Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT [[paper]](https://arxiv.org/abs/1708.08333)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## MRI
 ### 2016
