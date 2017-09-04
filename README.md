@@ -21,6 +21,7 @@
 #### Automatic 3D Cardiovascular MR Segmentation with Densely-Connected Volumetric ConvNets
 #### Deep Generative Adversarial Networks for Compressed Sensing Automates MRI [[paper]](https://arxiv.org/abs/1706.00051)
 #### Texture and Structure Incorporated ScatterNet Hybrid Deep Learning Network (TS-SHDL) For Brain Matter Segmentation [[paper]](https://arxiv.org/abs/1708.09300)
+#### Automatic Brain Tumor Segmentation using Cascaded Anisotropic Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1709.00382)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## US
 ### 2017
