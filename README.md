@@ -24,6 +24,9 @@
 #### Automatic Brain Tumor Segmentation using Cascaded Anisotropic Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1709.00382)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## US
+### 2016
+#### Convolutional Neural Networks for Medical Image Analysis Full Training or Fine Tuning [[paepr]](https://arxiv.org/abs/1706.00712)
+
 ### 2017
 #### Freehand Ultrasound Image Simulation with Spatially-Conditioned Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1707.05392)
 ----------------------------------------------------------------------------------------------------------------------------------------
