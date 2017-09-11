@@ -36,7 +36,6 @@
 ### 2017
 #### Accurate Lung Segmentation via Network-Wise Training of Convolutional Networks [[paper]](https://arxiv.org/abs/1708.00710)
 #### Abnormality Detection and Localization in Chest X-Rays using Deep Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1705.09850)
-#### Vessel Segmentation and Catheter Detection in X-Ray Angiograms Using Superpixels [[paper]](https://arxiv.org/abs/1709.02741)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## PET
 ### 2017
@@ -50,3 +49,4 @@
 ### 2017
 #### Adversarial Image Alignment and Interpolation [[paper]](https://arxiv.org/abs/1707.00067)
 #### CNN Cascades for Segmenting Whole Slide Images of the Kidney [[paper]](https://arxiv.org/abs/1708.00251)
+#### Learning to Segment Breast Biopsy Whole Slide Images [[paper]](https://arxiv.org/abs/1709.02554)
