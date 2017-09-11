@@ -7,6 +7,7 @@
 #### Sharpness-aware Low Dose CT Denoising Using Conditional Generative Adversarial Network [[paper]](https://arxiv.org/abs/1708.06453)
 #### Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT [[paper]](https://arxiv.org/abs/1708.08333)
 #### Deep Embedding Convolutional Neural Network for Synthesizing CT Image from T1-Weighted MR Image [[paepr]](https://arxiv.org/abs/1709.02073)
+#### A Self-aware Sampling Scheme to Efficiently Train Fully Convolutional Networks for Semantic Segmentation [[paper]](https://arxiv.org/abs/1709.02764)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## MRI
 ### 2016
@@ -35,6 +36,7 @@
 ### 2017
 #### Accurate Lung Segmentation via Network-Wise Training of Convolutional Networks [[paper]](https://arxiv.org/abs/1708.00710)
 #### Abnormality Detection and Localization in Chest X-Rays using Deep Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1705.09850)
+#### Vessel Segmentation and Catheter Detection in X-Ray Angiograms Using Superpixels [[paper]](https://arxiv.org/abs/1709.02741)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## PET
 ### 2017
