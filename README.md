@@ -9,6 +9,7 @@
 #### Deep Embedding Convolutional Neural Network for Synthesizing CT Image from T1-Weighted MR Image [[paepr]](https://arxiv.org/abs/1709.02073)
 #### A Self-aware Sampling Scheme to Efficiently Train Fully Convolutional Networks for Semantic Segmentation [[paper]](https://arxiv.org/abs/1709.02764)
 #### DeepLesion Automated Deep Mining Categorization and Detection of Significant Radiology Image Findings using Large-Scale Clinical Lesion Annotations [[paper]](https://arxiv.org/abs/1710.01766)
+#### Unsupervised End-to-end Learning for Deformable Medical Image Registration [[paper]](https://arxiv.org/abs/1711.08608)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## MRI
 ### 2016
