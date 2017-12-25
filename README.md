@@ -52,6 +52,7 @@
 #### Adversarial Image Alignment and Interpolation [[paper]](https://arxiv.org/abs/1707.00067)
 #### CNN Cascades for Segmenting Whole Slide Images of the Kidney [[paper]](https://arxiv.org/abs/1708.00251)
 #### Learning to Segment Breast Biopsy Whole Slide Images [[paper]](https://arxiv.org/abs/1709.02554)
+#### SFCN-OPI Detection and Fine-grained Classification of Nuclei Using Sibling FCN with Objectness Prior Interaction [[paper]](https://arxiv.org/abs/1712.08297)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## OCT
 ### 2017
