@@ -26,6 +26,9 @@
 #### Deep Generative Adversarial Networks for Compressed Sensing Automates MRI [[paper]](https://arxiv.org/abs/1706.00051)
 #### Texture and Structure Incorporated ScatterNet Hybrid Deep Learning Network (TS-SHDL) For Brain Matter Segmentation [[paper]](https://arxiv.org/abs/1708.09300)
 #### Automatic Brain Tumor Segmentation using Cascaded Anisotropic Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1709.00382)
+
+### 2018
+#### Brain MRI Super Resolution Using 3D Deep Densely Connected Neural Networks [[paper]](https://arxiv.org/abs/1801.02728)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## US
 ### 2016
