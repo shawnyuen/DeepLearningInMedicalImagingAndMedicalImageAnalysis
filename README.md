@@ -10,6 +10,11 @@
 #### A Self-aware Sampling Scheme to Efficiently Train Fully Convolutional Networks for Semantic Segmentation [[paper]](https://arxiv.org/abs/1709.02764)
 #### DeepLesion Automated Deep Mining Categorization and Detection of Significant Radiology Image Findings using Large-Scale Clinical Lesion Annotations [[paper]](https://arxiv.org/abs/1710.01766)
 #### Unsupervised End-to-end Learning for Deformable Medical Image Registration [[paper]](https://arxiv.org/abs/1711.08608)
+#### DeepLung 3D Deep Convolutional Nets for Automated Pulmonary Nodule Detection and Classification [[paper]](https://arxiv.org/abs/1709.05538)
+
+### 2018
+#### DeepLung Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification [[paper]](https://arxiv.org/abs/1801.09555)
+#### Deep LOGISMOS: Deep Learning Graph-based 3D Segmentation of Pancreatic Tumors on CT scans [[paper]](https://arxiv.org/abs/1801.08599)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## MRI
 ### 2016
@@ -57,6 +62,10 @@
 #### CNN Cascades for Segmenting Whole Slide Images of the Kidney [[paper]](https://arxiv.org/abs/1708.00251)
 #### Learning to Segment Breast Biopsy Whole Slide Images [[paper]](https://arxiv.org/abs/1709.02554)
 #### SFCN-OPI Detection and Fine-grained Classification of Nuclei Using Sibling FCN with Objectness Prior Interaction [[paper]](https://arxiv.org/abs/1712.08297)
+----------------------------------------------------------------------------------------------------------------------------------------
+## Colonoscopy
+### 2018
+#### Real-Time Polyps Segmentation for Colonoscopy Video Frames Using Compressed Fully Convolutional Network [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73603-7_32)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## OCT
 ### 2017
