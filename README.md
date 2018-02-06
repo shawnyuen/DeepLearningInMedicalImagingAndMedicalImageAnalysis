@@ -42,6 +42,7 @@
 ### 2017
 #### Freehand Ultrasound Image Simulation with Spatially-Conditioned Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1707.05392)
 #### Simulating Patho-realistic Ultrasound Images using Deep Generative Networks with Adversarial Learning [[paper]](https://arxiv.org/abs/1712.07881)
+#### Anatomically Constrained Neural Networks (ACNN) Application to Cardiac Image Enhancement and Segmentation [[paper]](http://ieeexplore.ieee.org/document/8051114/)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## X-ray
 ### 2017
