@@ -37,6 +37,9 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## US
 ### 2016
+#### Stacked Deep Polynomial Network Based Representation Learning for Tumor Classification with Small Ultrasound Image Dataset [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231216002344)
+
+### 2017
 #### Convolutional Neural Networks for Medical Image Analysis Full Training or Fine Tuning [[paepr]](https://arxiv.org/abs/1706.00712)
 
 ### 2017
@@ -58,12 +61,16 @@
 #### Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1706.09318) [[Keras+TF code]](https://bitbucket.org/woalsdnd/v-gan)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ##  Microscopy
+### 2016
+#### Stain Normalization Using Sparse AutoEncoders (StaNoSA) Application to Digital Pathology [[paper]](http://www.sciencedirect.com/science/article/pii/S0895611116300404)
+#### Stacked Sparse Autoencoder (SSAE) for Nuclei Detection on Breast Cancer Histopathology Images [[paper]](http://ieeexplore.ieee.org/document/7163353/)
+
 ### 2017
 #### Adversarial Image Alignment and Interpolation [[paper]](https://arxiv.org/abs/1707.00067)
 #### CNN Cascades for Segmenting Whole Slide Images of the Kidney [[paper]](https://arxiv.org/abs/1708.00251)
 #### Learning to Segment Breast Biopsy Whole Slide Images [[paper]](https://arxiv.org/abs/1709.02554)
 #### SFCN-OPI Detection and Fine-grained Classification of Nuclei Using Sibling FCN with Objectness Prior Interaction [[paper]](https://arxiv.org/abs/1712.08297)
-#### Stacked Sparse Autoencoder (SSAE) for Nuclei Detection on Breast Cancer Histopathology Images [[paper]](http://ieeexplore.ieee.org/document/7163353/)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Colonoscopy
 ### 2018
