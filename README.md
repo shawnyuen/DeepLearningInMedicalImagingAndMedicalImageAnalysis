@@ -63,6 +63,7 @@
 #### CNN Cascades for Segmenting Whole Slide Images of the Kidney [[paper]](https://arxiv.org/abs/1708.00251)
 #### Learning to Segment Breast Biopsy Whole Slide Images [[paper]](https://arxiv.org/abs/1709.02554)
 #### SFCN-OPI Detection and Fine-grained Classification of Nuclei Using Sibling FCN with Objectness Prior Interaction [[paper]](https://arxiv.org/abs/1712.08297)
+#### Stacked Sparse Autoencoder (SSAE) for Nuclei Detection on Breast Cancer Histopathology Images [[paper]](http://ieeexplore.ieee.org/document/7163353/)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Colonoscopy
 ### 2018
