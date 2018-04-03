@@ -70,7 +70,6 @@
 #### CNN Cascades for Segmenting Whole Slide Images of the Kidney [[paper]](https://arxiv.org/abs/1708.00251)
 #### Learning to Segment Breast Biopsy Whole Slide Images [[paper]](https://arxiv.org/abs/1709.02554)
 #### SFCN-OPI Detection and Fine-grained Classification of Nuclei Using Sibling FCN with Objectness Prior Interaction [[paper]](https://arxiv.org/abs/1712.08297)
-
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Colonoscopy
 ### 2018
@@ -79,3 +78,8 @@
 ## OCT
 ### 2017
 #### Cystoid Macular Edema Segmentation of Optical Coherence Tomography Images Using Fully Convolutional Neural Networks and Fully Connected CRFs 2017 [[paper]](https://arxiv.org/abs/1709.05324)
+-----------------------------------------------------------------------------------------------------------------------------------------
+## Dermoscopy
+### 2017
+#### Automatic Skin Lesion Segmentation Using Deep Fully Convolutional Networks with Jaccard Distance [[paper]](http://ieeexplore.ieee.org/document/7903636/)
+"Jaccard distance on one hand, is similar to the known Dice overlap coefficient (also a novel loss function in V-Net), on the other hand, in the above paper, is a novel loss function suitable for binary class segmentation task. obviously, Jaccard distance is similar to IoU (intersection over union), a strict metric in object/semantic segmentation in computer vision."
