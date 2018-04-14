@@ -87,3 +87,5 @@
 ### 2017
 #### Automatic Skin Lesion Segmentation Using Deep Fully Convolutional Networks with Jaccard Distance [[paper]](http://ieeexplore.ieee.org/document/7903636/)
 "Jaccard distance on one hand, is similar to the known Dice overlap coefficient (also a novel loss function in V-Net), on the other hand, in the above paper, is a novel loss function suitable for binary class segmentation task. obviously, Jaccard distance is similar to IoU (intersection over union), a strict metric in object/semantic segmentation in computer vision."
+### 2018
+#### DermoNet Densely Linked Convolutional Neural Network for Efficient Skin Lesion Segmentation [[paper]](https://openreview.net/forum?id=B167qcojM)
