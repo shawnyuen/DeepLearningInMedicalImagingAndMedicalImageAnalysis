@@ -102,3 +102,4 @@
 #### Skin melanoma segmentation using recurrent and convolutional neural networks [[paper]](https://ieeexplore.ieee.org/document/7950522/)
 ### 2018
 #### DermoNet Densely Linked Convolutional Neural Network for Efficient Skin Lesion Segmentation [[paper]](https://openreview.net/forum?id=B167qcojM)
+#### Techniques and Algorithms for Computer Aided Diagnosis of Pigmented Skin Lesions A Review [[paper]](https://www.sciencedirect.com/science/article/pii/S1746809417301428)
