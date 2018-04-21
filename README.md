@@ -86,6 +86,8 @@
 ## Dermoscopy
 ### 2016
 #### Automated Melanoma Recognition in Dermoscopy Images via Very Deep Residual Networks [[paper]](http://ieeexplore.ieee.org/document/7792699/)
+#### Hybrid dermoscopy image classification framework based on deep convolutional neural network and Fisher vector [[paper]](https://ieeexplore.ieee.org/document/7950524/)
+#### Automatic melanoma detection via multi-scale lesion-biased representation and joint reverse classification [[paper]](https://ieeexplore.ieee.org/document/7493447/)
 ### 2017
 #### Automatic Skin Lesion Segmentation Using Deep Fully Convolutional Networks with Jaccard Distance [[paper]](http://ieeexplore.ieee.org/document/7903636/)
 "Jaccard distance on one hand, is similar to the known Dice overlap coefficient (also a novel loss function in V-Net), on the other hand, in the above paper, is a novel loss function suitable for binary class segmentation task. obviously, Jaccard distance is similar to IoU (intersection over union), a strict metric in object/semantic segmentation in computer vision."
@@ -93,9 +95,10 @@
 #### Skin Lesion Segmentation via Deep RefineNet [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-67558-9_35)
 #### Improving Dermoscopic Image Segmentation with Enhanced Convolutional-Deconvolutional Networks [[paper]](https://ieeexplore.ieee.org/document/8239798/)
 #### Segmentation of dermoscopy images based on fully convolutional neural network [[paper]](https://ieeexplore.ieee.org/document/8296578/)
-#### Multi-class Semantic Segmentation of Skin Lesions via Fully Convolutional Networks [[paper]]
+#### Multi-class Semantic Segmentation of Skin Lesions via Fully Convolutional Networks [[paper]](https://arxiv.org/abs/1711.10449)
 "Multi-class (classification and segmentation)"
-#### Improving Dermoscopic Image Segmentation with Enhanced Convolutional-Deconvolutional Networks [[paper]]
-#### Dermoscopic Image Segmentation via Multi-Stage Fully Convolutional Networks [[paper]]
+#### Improving Dermoscopic Image Segmentation with Enhanced Convolutional-Deconvolutional Networks [[paper]](https://ieeexplore.ieee.org/document/8239798/)
+#### Dermoscopic Image Segmentation via Multi-Stage Fully Convolutional Networks [[paper]](http://ieeexplore.ieee.org/document/7942129/)
+#### Skin melanoma segmentation using recurrent and convolutional neural networks [[paper]](https://ieeexplore.ieee.org/document/7950522/)
 ### 2018
 #### DermoNet Densely Linked Convolutional Neural Network for Efficient Skin Lesion Segmentation [[paper]](https://openreview.net/forum?id=B167qcojM)
