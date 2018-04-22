@@ -103,3 +103,4 @@
 ### 2018
 #### DermoNet Densely Linked Convolutional Neural Network for Efficient Skin Lesion Segmentation [[paper]](https://openreview.net/forum?id=B167qcojM)
 #### Techniques and Algorithms for Computer Aided Diagnosis of Pigmented Skin Lesions A Review [[paper]](https://www.sciencedirect.com/science/article/pii/S1746809417301428)
+#### MelanoGANs High Resolution Skin Lesion Synthesis with GANs [[paper]](https://arxiv.org/abs/1804.04338)
