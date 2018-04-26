@@ -20,7 +20,7 @@
 ## MRI
 ### 2016
 #### Medical Image Synthesis with Context-aware Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05362)
-
+#### Multi-scale and Modality Dropout Learning for Intervertebral Disc Localization and Segmentation [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-55050-3_8)
 ### 2017
 #### SegAN Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[paper]](https://arxiv.org/abs/1706.01805)
 #### Automatic Segmentation and Disease Classification Using Cardiac Cine MR Images [[paper]](https://arxiv.org/abs/1708.01141)
@@ -32,9 +32,9 @@
 #### Deep Generative Adversarial Networks for Compressed Sensing Automates MRI [[paper]](https://arxiv.org/abs/1706.00051)
 #### Texture and Structure Incorporated ScatterNet Hybrid Deep Learning Network (TS-SHDL) For Brain Matter Segmentation [[paper]](https://arxiv.org/abs/1708.09300)
 #### Automatic Brain Tumor Segmentation using Cascaded Anisotropic Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1709.00382)
-
 ### 2018
 #### Brain MRI Super Resolution Using 3D Deep Densely Connected Neural Networks [[paper]](https://arxiv.org/abs/1801.02728)
+#### 3D Multi-scale FCN with Random Modality Voxel Dropout Learning for Intervertebral Disc Localization and Segmentation from Multi-modality MR Images [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841518300136)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## US
 ### 2016
