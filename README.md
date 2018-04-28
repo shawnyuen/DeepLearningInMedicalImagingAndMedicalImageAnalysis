@@ -11,11 +11,11 @@
 #### DeepLesion Automated Deep Mining Categorization and Detection of Significant Radiology Image Findings using Large-Scale Clinical Lesion Annotations [[paper]](https://arxiv.org/abs/1710.01766)
 #### Unsupervised End-to-end Learning for Deformable Medical Image Registration [[paper]](https://arxiv.org/abs/1711.08608)
 #### DeepLung 3D Deep Convolutional Nets for Automated Pulmonary Nodule Detection and Classification [[paper]](https://arxiv.org/abs/1709.05538)
-
 ### 2018
 #### DeepLung Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification [[paper]](https://arxiv.org/abs/1801.09555)
 #### Deep LOGISMOS: Deep Learning Graph-based 3D Segmentation of Pancreatic Tumors on CT scans [[paper]](https://arxiv.org/abs/1801.08599)
 #### Attention U-Net Learning Where to Look for the Pancreas [[paper]](https://arxiv.org/abs/1804.03999)
+#### Calcium Removal From Cardiac CT Images Using Deep Convolutional Neural Network [[paper]](https://arxiv.org/abs/1803.00399)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## MRI
 ### 2016
@@ -35,6 +35,7 @@
 ### 2018
 #### Brain MRI Super Resolution Using 3D Deep Densely Connected Neural Networks [[paper]](https://arxiv.org/abs/1801.02728)
 #### 3D Multi-scale FCN with Random Modality Voxel Dropout Learning for Intervertebral Disc Localization and Segmentation from Multi-modality MR Images [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841518300136)
+#### Efficient and Accurate MRI Super-Resolution using a Generative Adversarial Network and 3D Multi-Level Densely Connected Network [[paper]](https://arxiv.org/abs/1803.01417)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## US
 ### 2016
