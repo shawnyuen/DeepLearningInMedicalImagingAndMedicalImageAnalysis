@@ -38,16 +38,19 @@
 #### Efficient and Accurate MRI Super-Resolution using a Generative Adversarial Network and 3D Multi-Level Densely Connected Network [[paper]](https://arxiv.org/abs/1803.01417)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## US
+### 2015
+#### Automatic Fetal Ultrasound Standard Plane Detection Using Knowledge Transferred Recurrent Neural Networks [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-24553-9_62)
 ### 2016
 #### Stacked Deep Polynomial Network Based Representation Learning for Tumor Classification with Small Ultrasound Image Dataset [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231216002344)
-
 ### 2017
 #### Convolutional Neural Networks for Medical Image Analysis Full Training or Fine Tuning [[paepr]](https://arxiv.org/abs/1706.00712)
-
-### 2017
 #### Freehand Ultrasound Image Simulation with Spatially-Conditioned Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1707.05392)
 #### Simulating Patho-realistic Ultrasound Images using Deep Generative Networks with Adversarial Learning [[paper]](https://arxiv.org/abs/1712.07881)
 #### Anatomically Constrained Neural Networks (ACNN) Application to Cardiac Image Enhancement and Segmentation [[paper]](http://ieeexplore.ieee.org/document/8051114/)
+### 2018
+#### Automatic Fetal Head Circumference Measurement in Ultrasound Using Random Forest and Fast Ellipse Fitting [[paper]](https://ieeexplore.ieee.org/document/7927411/)
+#### Human-level Performance On Automatic Head Biometrics In Fetal Ultrasound Using Fully Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1804.09102)
+#### Cascaded Transforming Multi-task Networks For Abdominal Biometric Estimation from Ultrasound [[paepr]](https://openreview.net/forum?id=r1ZGQW2if)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## X-ray
 ### 2017
