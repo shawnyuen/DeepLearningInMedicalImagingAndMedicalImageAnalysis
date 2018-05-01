@@ -51,6 +51,7 @@
 #### Automatic Fetal Head Circumference Measurement in Ultrasound Using Random Forest and Fast Ellipse Fitting [[paper]](https://ieeexplore.ieee.org/document/7927411/)
 #### Human-level Performance On Automatic Head Biometrics In Fetal Ultrasound Using Fully Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1804.09102)
 #### Cascaded Transforming Multi-task Networks For Abdominal Biometric Estimation from Ultrasound [[paepr]](https://openreview.net/forum?id=r1ZGQW2if)
+#### Adversarial Image Registration with Application for MR and TRUS Image Fusion 2018 [[paper]](https://arxiv.org/abs/1804.11024)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## X-ray
 ### 2017
