@@ -1,6 +1,9 @@
 # Deep Learning in Medical Imaging
 
 ## CT
+### 2016
+#### Low-dose CT Denoising with Convolutional Neural Network [[paper]](https://arxiv.org/abs/1610.00321)
+#### Low-Dose CT via Deep Neural Network [[paper]](https://arxiv.org/abs/1609.08508)
 ### 2017
 #### Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[paper]](https://arxiv.org/abs/1708.00961)
 #### Automatic Liver Segmentation Using an Adversarial Image-to-Image Network [[paper]](https://arxiv.org/abs/1707.08037)
@@ -11,11 +14,18 @@
 #### DeepLesion Automated Deep Mining Categorization and Detection of Significant Radiology Image Findings using Large-Scale Clinical Lesion Annotations [[paper]](https://arxiv.org/abs/1710.01766)
 #### Unsupervised End-to-end Learning for Deformable Medical Image Registration [[paper]](https://arxiv.org/abs/1711.08608)
 #### DeepLung 3D Deep Convolutional Nets for Automated Pulmonary Nodule Detection and Classification [[paper]](https://arxiv.org/abs/1709.05538)
+#### CT Image Denoising with Perceptive Deep Neural Networks [[paper]](https://arxiv.org/abs/1702.07019)
+#### Improving Low-Dose CT Image Using Residual Convolutional Network [[paper]](http://ieeexplore.ieee.org/document/8082505/)
+#### Low-Dose CT with a Residual Encoder-Decoder Convolutional Neural Network (RED-CNN) [[paper]](https://ieeexplore.ieee.org/document/7947200/)
+#### Stacked Competitive Networks for Noise Reduction in Low-dose CT [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190069)
 ### 2018
 #### DeepLung Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification [[paper]](https://arxiv.org/abs/1801.09555)
 #### Deep LOGISMOS: Deep Learning Graph-based 3D Segmentation of Pancreatic Tumors on CT scans [[paper]](https://arxiv.org/abs/1801.08599)
 #### Attention U-Net Learning Where to Look for the Pancreas [[paper]](https://arxiv.org/abs/1804.03999)
 #### Calcium Removal From Cardiac CT Images Using Deep Convolutional Neural Network [[paper]](https://arxiv.org/abs/1803.00399)
+#### 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network [[paper]](https://arxiv.org/abs/1802.05656)
+#### Deep Convolutional Framelet Denosing for Low-Dose CT via Wavelet Residual Network [[paper]](https://ieeexplore.ieee.org/document/8332971/)
+#### Structure-sensitive Multi-scale Deep Neural Network for Low-Dose CT Denoising [[paper]](https://arxiv.org/abs/1805.00587)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## MRI
 ### 2016
