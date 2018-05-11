@@ -49,10 +49,19 @@
 #### Deep Generative Adversarial Networks for Compressed Sensing Automates MRI [[paper]](https://arxiv.org/abs/1706.00051)
 #### Texture and Structure Incorporated ScatterNet Hybrid Deep Learning Network (TS-SHDL) For Brain Matter Segmentation [[paper]](https://arxiv.org/abs/1708.09300)
 #### Automatic Brain Tumor Segmentation using Cascaded Anisotropic Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1709.00382)
+#### Deep Learning with Domain Adaptation for Accelerated Projection Reconstruction MR [[paper]](https://arxiv.org/abs/1703.01135)
+#### A Deep Cascade of Convolutional Neural Networks for Dynamic MR Image Reconstruction [[paper]](https://ieeexplore.ieee.org/document/8067520/)
+#### Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1709.00753)
+#### Learning a Variational Network for Reconstruction of Accelerated MRI Data [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.26977)
+#### A Parallel MR Imaging Method Using Multilayer Perceptron [[paper]](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12600)
+#### A Deep Cascade of Convolutional Neural Networks for Dynamic MR Image Reconstruction [[paper]](https://ieeexplore.ieee.org/document/8067520/)
+#### Image Reconstruction by Domain Transform Manifold Learning [[paper]](https://arxiv.org/abs/1704.08841)
 ### 2018
 #### Brain MRI Super Resolution Using 3D Deep Densely Connected Neural Networks [[paper]](https://arxiv.org/abs/1801.02728)
 #### 3D Multi-scale FCN with Random Modality Voxel Dropout Learning for Intervertebral Disc Localization and Segmentation from Multi-modality MR Images [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841518300136)
 #### Efficient and Accurate MRI Super-Resolution using a Generative Adversarial Network and 3D Multi-Level Densely Connected Network [[paper]](https://arxiv.org/abs/1803.01417)
+#### Deep Residual Learning for Accelerated MRI Using Magnitude and Phase Networks [[paper]](https://arxiv.org/abs/1804.00432)
+#### k-Space Deep Learning for Accelerated MRI [[paper]](https://arxiv.org/abs/1805.03779)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## US
 ### 2015
