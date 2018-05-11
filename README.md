@@ -25,6 +25,7 @@
 #### Improving Low-Dose CT Image Using Residual Convolutional Network [[paper]](http://ieeexplore.ieee.org/document/8082505/)
 #### Low-Dose CT with a Residual Encoder-Decoder Convolutional Neural Network (RED-CNN) [[paper]](https://ieeexplore.ieee.org/document/7947200/)
 #### Stacked Competitive Networks for Noise Reduction in Low-dose CT [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190069)
+#### Evaluate the Malignancy of Pulmonary Nodules Using the 3D Deep Leaky Noisy-or Network [[paper]](https://arxiv.org/abs/1711.08324)
 ### 2018
 #### DeepLung Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification [[paper]](https://arxiv.org/abs/1801.09555)
 #### Deep LOGISMOS: Deep Learning Graph-based 3D Segmentation of Pancreatic Tumors on CT scans [[paper]](https://arxiv.org/abs/1801.08599)
@@ -56,6 +57,7 @@
 #### A Parallel MR Imaging Method Using Multilayer Perceptron [[paper]](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12600)
 #### A Deep Cascade of Convolutional Neural Networks for Dynamic MR Image Reconstruction [[paper]](https://ieeexplore.ieee.org/document/8067520/)
 #### Image Reconstruction by Domain Transform Manifold Learning [[paper]](https://arxiv.org/abs/1704.08841)
+#### Human-level CMR Image Analysis with Deep Fully Convolutional Networks [[paper]](https://arxiv.org/abs/1710.09289)
 ### 2018
 #### Brain MRI Super Resolution Using 3D Deep Densely Connected Neural Networks [[paper]](https://arxiv.org/abs/1801.02728)
 #### 3D Multi-scale FCN with Random Modality Voxel Dropout Learning for Intervertebral Disc Localization and Segmentation from Multi-modality MR Images [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841518300136)
