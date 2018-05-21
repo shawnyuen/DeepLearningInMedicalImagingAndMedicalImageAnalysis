@@ -65,7 +65,7 @@
 #### Deep Residual Learning for Accelerated MRI Using Magnitude and Phase Networks [[paper]](https://arxiv.org/abs/1804.00432)
 #### k-Space Deep Learning for Accelerated MRI [[paper]](https://arxiv.org/abs/1805.03779)
 ----------------------------------------------------------------------------------------------------------------------------------------
-## US
+## Ultrasound
 ### 2015
 #### Automatic Fetal Ultrasound Standard Plane Detection Using Knowledge Transferred Recurrent Neural Networks [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-24553-9_62)
 ### 2016
@@ -80,6 +80,7 @@
 #### Human-level Performance On Automatic Head Biometrics In Fetal Ultrasound Using Fully Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1804.09102)
 #### Cascaded Transforming Multi-task Networks For Abdominal Biometric Estimation from Ultrasound [[paepr]](https://openreview.net/forum?id=r1ZGQW2if)
 #### Adversarial Image Registration with Application for MR and TRUS Image Fusion 2018 [[paper]](https://arxiv.org/abs/1804.11024)
+#### Fully Automatic Myocardial Segmentation of Contrast Echocardiography Sequence Using Random Forests Guided by Shape Model 2018 [[paper]](https://ieeexplore.ieee.org/document/8051098/)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## X-ray
 ### 2017
