@@ -137,3 +137,7 @@
 #### DermoNet Densely Linked Convolutional Neural Network for Efficient Skin Lesion Segmentation [[paper]](https://openreview.net/forum?id=B167qcojM)
 #### Techniques and Algorithms for Computer Aided Diagnosis of Pigmented Skin Lesions A Review [[paper]](https://www.sciencedirect.com/science/article/pii/S1746809417301428)
 #### MelanoGANs High Resolution Skin Lesion Synthesis with GANs [[paper]](https://arxiv.org/abs/1804.04338)
+----------------------------------------------------------------------------------------------------------------------------------------
+## Endoscopy
+### 2018
+#### Articulated Multi-Instrument 2-D Pose Estimation Using Fully Convolutional Networks 2018 [[paper]](https://ieeexplore.ieee.org/document/8259318/) [[code]](https://github.com/surgical-vision/EndoVisPoseAnnotation)
