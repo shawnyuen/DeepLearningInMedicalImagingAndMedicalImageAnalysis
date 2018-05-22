@@ -7,7 +7,7 @@
 #### Deep Learning in Medical Image Analysis 2017 [[paper]](http://www.annualreviews.org/doi/10.1146/annurev-bioeng-071516-044442)
 #### Deep Learning in Microscopy Image Analysis A Survey 2017 [[paper]](https://ieeexplore.ieee.org/document/8118310/)
 
-## CT
+## Computed Tomography
 ### 2016
 #### Low-dose CT Denoising with Convolutional Neural Network [[paper]](https://arxiv.org/abs/1610.00321)
 #### Low-Dose CT via Deep Neural Network [[paper]](https://arxiv.org/abs/1609.08508)
