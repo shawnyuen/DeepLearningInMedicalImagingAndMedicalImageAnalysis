@@ -30,6 +30,7 @@
 #### Low-Dose CT with a Residual Encoder-Decoder Convolutional Neural Network (RED-CNN) [[paper]](https://ieeexplore.ieee.org/document/7947200/)
 #### Stacked Competitive Networks for Noise Reduction in Low-dose CT [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190069)
 #### Evaluate the Malignancy of Pulmonary Nodules Using the 3D Deep Leaky Noisy-or Network [[paper]](https://arxiv.org/abs/1711.08324)
+#### Robust Landmark Detection in Volumetric Data with Efficient 3D Deep Learning [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-42999-1_4)
 ### 2018
 #### DeepLung Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification [[paper]](https://arxiv.org/abs/1801.09555)
 #### Deep LOGISMOS: Deep Learning Graph-based 3D Segmentation of Pancreatic Tumors on CT scans [[paper]](https://arxiv.org/abs/1801.08599)
