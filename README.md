@@ -11,6 +11,7 @@
 ### 2016
 #### Low-dose CT Denoising with Convolutional Neural Network [[paper]](https://arxiv.org/abs/1610.00321)
 #### Low-Dose CT via Deep Neural Network [[paper]](https://arxiv.org/abs/1609.08508)
+#### Pulmonary Nodule Detection in CT Images: False Positive Reduction Using Multi-View Convolutional Networks [[paper]](https://ieeexplore.ieee.org/document/7422783/)
 ### 2017
 #### Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[paper]](https://arxiv.org/abs/1708.00961)
 #### Automatic Liver Segmentation Using an Adversarial Image-to-Image Network [[paper]](https://arxiv.org/abs/1707.08037)
