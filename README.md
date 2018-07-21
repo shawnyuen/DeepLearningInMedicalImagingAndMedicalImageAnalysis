@@ -10,11 +10,14 @@
 ## Computed Tomography
 ### 2015
 #### 3D Deep Learning for Efficient and Robust Landmark Detection in Volumetric Data [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-24553-9_69)
-"focuse it recently"
+"focus it recently"
 ### 2016
 #### Low-dose CT Denoising with Convolutional Neural Network [[paper]](https://arxiv.org/abs/1610.00321)
 #### Low-Dose CT via Deep Neural Network [[paper]](https://arxiv.org/abs/1609.08508)
 #### Pulmonary Nodule Detection in CT Images: False Positive Reduction Using Multi-View Convolutional Networks [[paper]](https://ieeexplore.ieee.org/document/7422783/)
+#### Automatic Liver and Lesion Segmentation in CT Using Cascaded Fully Convolutional Neural Networks and 3D Conditional Random Fields MICCAI 2016 [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_48)
+"CRF"
+
 ### 2017
 #### Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[paper]](https://arxiv.org/abs/1708.00961)
 #### Automatic Liver Segmentation Using an Adversarial Image-to-Image Network [[paper]](https://arxiv.org/abs/1707.08037)
@@ -45,6 +48,8 @@
 #### Medical Image Synthesis with Context-aware Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05362)
 #### Multi-scale and Modality Dropout Learning for Intervertebral Disc Localization and Segmentation [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-55050-3_8)
 #### Pancreas Segmentation in MRI Using Graph-Based Decision Fusion on Convolutional Neural Networks MICCAI 2016 [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_51)
+"CRF"
+
 ### 2017
 #### SegAN Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[paper]](https://arxiv.org/abs/1706.01805)
 #### Automatic Segmentation and Disease Classification Using Cardiac Cine MR Images [[paper]](https://arxiv.org/abs/1708.01141)
@@ -64,6 +69,11 @@
 #### A Deep Cascade of Convolutional Neural Networks for Dynamic MR Image Reconstruction [[paper]](https://ieeexplore.ieee.org/document/8067520/)
 #### Image Reconstruction by Domain Transform Manifold Learning [[paper]](https://arxiv.org/abs/1704.08841)
 #### Human-level CMR Image Analysis with Deep Fully Convolutional Networks [[paper]](https://arxiv.org/abs/1710.09289)
+#### A Novel Automatic Segmentation Method to Quantify the Effects of Spinal Cord Injury on Human Thigh Muscles and Adipose Tissue MICCAI 2017 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-66185-8_79)
+"CRF"
+#### Boundary-Aware Fully Convolutional Network for Brain Tumor Segmentation MICCAI 2017 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-66185-8_49)
+"CRF"
+
 ### 2018
 #### Brain MRI Super Resolution Using 3D Deep Densely Connected Neural Networks [[paper]](https://arxiv.org/abs/1801.02728)
 #### 3D Multi-scale FCN with Random Modality Voxel Dropout Learning for Intervertebral Disc Localization and Segmentation from Multi-modality MR Images [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841518300136)
@@ -101,6 +111,10 @@
 #### Virtual PET Images from CT Data Using Deep Convolutional Networks Initial Results [[paper]](https://arxiv.org/abs/1707.09585)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Funduscopy
+### 2016
+#### DeepVessel Retinal Vessel Segmentation via Deep Learning and Conditional Random Field MICCAI 2016 [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_16)
+"CRF"
+
 ### 2017
 #### Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1706.09318) [[Keras+TF code]](https://bitbucket.org/woalsdnd/v-gan)
 ----------------------------------------------------------------------------------------------------------------------------------------
