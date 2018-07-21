@@ -44,6 +44,7 @@
 ### 2016
 #### Medical Image Synthesis with Context-aware Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05362)
 #### Multi-scale and Modality Dropout Learning for Intervertebral Disc Localization and Segmentation [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-55050-3_8)
+#### Pancreas Segmentation in MRI Using Graph-Based Decision Fusion on Convolutional Neural Networks MICCAI 2016 [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_51)
 ### 2017
 #### SegAN Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[paper]](https://arxiv.org/abs/1706.01805)
 #### Automatic Segmentation and Disease Classification Using Cardiac Cine MR Images [[paper]](https://arxiv.org/abs/1708.01141)
