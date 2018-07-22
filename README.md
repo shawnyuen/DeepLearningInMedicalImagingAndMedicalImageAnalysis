@@ -109,6 +109,7 @@
 ## PET
 ### 2017
 #### Virtual PET Images from CT Data Using Deep Convolutional Networks Initial Results [[paper]](https://arxiv.org/abs/1707.09585)
+#### Combo Loss Handling Input and Output Imbalance in Multi-Organ Segmentation Arxiv 2018 [[paper]](https://arxiv.org/abs/1805.02798)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Funduscopy
 ### 2016
