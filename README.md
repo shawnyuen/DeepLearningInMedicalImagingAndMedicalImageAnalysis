@@ -7,9 +7,9 @@
 #### Deep Learning in Medical Image Analysis 2017 [[paper]](http://www.annualreviews.org/doi/10.1146/annurev-bioeng-071516-044442)
 #### Deep Learning in Microscopy Image Analysis A Survey 2017 [[paper]](https://ieeexplore.ieee.org/document/8118310/)
 
-## Computed Tomography
+## Computed Tomography (CT)
 ### 2015
-#### 3D Deep Learning for Efficient and Robust Landmark Detection in Volumetric Data [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-24553-9_69)
+#### 3D Deep Learning for Efficient and Robust Landmark Detection in Volumetric Data MICCAI 2015 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-24553-9_69)
 "focus it recently"
 ### 2016
 #### Low-dose CT Denoising with Convolutional Neural Network [[paper]](https://arxiv.org/abs/1610.00321)
@@ -17,6 +17,8 @@
 #### Pulmonary Nodule Detection in CT Images: False Positive Reduction Using Multi-View Convolutional Networks [[paper]](https://ieeexplore.ieee.org/document/7422783/)
 #### Automatic Liver and Lesion Segmentation in CT Using Cascaded Fully Convolutional Neural Networks and 3D Conditional Random Fields MICCAI 2016 [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_48)
 "CRF"
+#### An Artificial Agent for Anatomical Landmark Detection in Medical Images MICCAI 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46726-9_27)
+"deep reinforcement learning", "anatomical landmark detection"
 
 ### 2017
 #### Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[paper]](https://arxiv.org/abs/1708.00961)
@@ -34,6 +36,9 @@
 #### Stacked Competitive Networks for Noise Reduction in Low-dose CT [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190069)
 #### Evaluate the Malignancy of Pulmonary Nodules Using the 3D Deep Leaky Noisy-or Network [[paper]](https://arxiv.org/abs/1711.08324)
 #### Robust Landmark Detection in Volumetric Data with Efficient 3D Deep Learning [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-42999-1_4)
+#### Robust Multi-scale Anatomical Landmark Detection in Incomplete 3D-CT Data [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-66182-7_23)
+#### Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans TPAMI 2017 [[paper]](https://ieeexplore.ieee.org/document/8187667/)
+
 ### 2018
 #### DeepLung Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification [[paper]](https://arxiv.org/abs/1801.09555)
 #### Deep LOGISMOS: Deep Learning Graph-based 3D Segmentation of Pancreatic Tumors on CT scans [[paper]](https://arxiv.org/abs/1801.08599)
@@ -42,13 +47,19 @@
 #### 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network [[paper]](https://arxiv.org/abs/1802.05656)
 #### Deep Convolutional Framelet Denosing for Low-Dose CT via Wavelet Residual Network [[paper]](https://ieeexplore.ieee.org/document/8332971/)
 #### Structure-sensitive Multi-scale Deep Neural Network for Low-Dose CT Denoising [[paper]](https://arxiv.org/abs/1805.00587)
+#### Towards Intelligent Robust Detection of Anatomical Structures in Incomplete Volumetric Data MedIA 2018 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841518304092)
+#### Partial Policy-based Reinforcement Learning for Anatomical Landmark Localization in 3D Medical Images Arxiv 2018 [[paper]](https://arxiv.org/abs/1807.02908)
+"reinforcement learning", "anatomical landmark localization", "aortic valve". "left atrial appendage"
+#### Deeply Self-Supervising Edge-to-Contour Neural Network Applied to Liver Segmentation [[paper]](https://arxiv.org/abs/1808.00739)
 ----------------------------------------------------------------------------------------------------------------------------------------
-## MRI
+## Magnetic Resonance Imaging (MRI)
 ### 2016
 #### Medical Image Synthesis with Context-aware Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05362)
 #### Multi-scale and Modality Dropout Learning for Intervertebral Disc Localization and Segmentation [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-55050-3_8)
 #### Pancreas Segmentation in MRI Using Graph-Based Decision Fusion on Convolutional Neural Networks MICCAI 2016 [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_51)
 "CRF"
+#### Regressing Heatmaps for Multiple Landmark Localization Using CNNs MICCAI 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_27)
+"Multiple Landmark Localization"
 
 ### 2017
 #### SegAN Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[paper]](https://arxiv.org/abs/1706.01805)
@@ -80,6 +91,7 @@
 #### Efficient and Accurate MRI Super-Resolution using a Generative Adversarial Network and 3D Multi-Level Densely Connected Network [[paper]](https://arxiv.org/abs/1803.01417)
 #### Deep Residual Learning for Accelerated MRI Using Magnitude and Phase Networks [[paper]](https://arxiv.org/abs/1804.00432)
 #### k-Space Deep Learning for Accelerated MRI [[paper]](https://arxiv.org/abs/1805.03779)
+#### Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and Segmentation [[paper]](https://arxiv.org/abs/1808.01200)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Ultrasound
 ### 2015
