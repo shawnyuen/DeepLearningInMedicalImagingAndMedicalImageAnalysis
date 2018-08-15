@@ -51,6 +51,7 @@
 #### Partial Policy-based Reinforcement Learning for Anatomical Landmark Localization in 3D Medical Images Arxiv 2018 [[paper]](https://arxiv.org/abs/1807.02908)
 "reinforcement learning", "anatomical landmark localization", "aortic valve". "left atrial appendage"
 #### Deeply Self-Supervising Edge-to-Contour Neural Network Applied to Liver Segmentation [[paper]](https://arxiv.org/abs/1808.00739)
+#### Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network CVPR 2018 [[paper]](https://arxiv.org/abs/1802.09655)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Magnetic Resonance Imaging (MRI)
 ### 2016
