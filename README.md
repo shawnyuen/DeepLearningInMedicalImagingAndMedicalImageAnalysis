@@ -115,6 +115,7 @@
 ### 2017
 #### Accurate Lung Segmentation via Network-Wise Training of Convolutional Networks [[paper]](https://arxiv.org/abs/1708.00710)
 #### Abnormality Detection and Localization in Chest X-Rays using Deep Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1705.09850)
+#### Pediatric Bone Age Assessment Using Deep Convolutional Neural Networks 2017 [[paper]](https://arxiv.org/abs/1712.05053)
 
 ### 2018
 #### SCAN Structure Correcting Adversarial Network for Organ Segmentation in Chest X-rays [[paper]](https://openreview.net/forum?id=HJ1RffhjM)
