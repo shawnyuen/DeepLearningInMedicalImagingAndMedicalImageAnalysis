@@ -7,10 +7,12 @@
 #### Deep Learning in Medical Image Analysis 2017 [[paper]](http://www.annualreviews.org/doi/10.1146/annurev-bioeng-071516-044442)
 #### Deep Learning in Microscopy Image Analysis A Survey 2017 [[paper]](https://ieeexplore.ieee.org/document/8118310/)
 
+----------------------------------------------------------------------------------------------------------------------------------------
 ## Computed Tomography (CT)
 ### 2015
 #### 3D Deep Learning for Efficient and Robust Landmark Detection in Volumetric Data MICCAI 2015 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-24553-9_69)
 "focus it recently"
+
 ### 2016
 #### Low-dose CT Denoising with Convolutional Neural Network [[paper]](https://arxiv.org/abs/1610.00321)
 #### Low-Dose CT via Deep Neural Network [[paper]](https://arxiv.org/abs/1609.08508)
@@ -52,6 +54,7 @@
 "reinforcement learning", "anatomical landmark localization", "aortic valve". "left atrial appendage"
 #### Deeply Self-Supervising Edge-to-Contour Neural Network Applied to Liver Segmentation [[paper]](https://arxiv.org/abs/1808.00739)
 #### Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network CVPR 2018 [[paper]](https://arxiv.org/abs/1802.09655)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Magnetic Resonance Imaging (MRI)
 ### 2016
@@ -93,23 +96,42 @@
 #### Deep Residual Learning for Accelerated MRI Using Magnitude and Phase Networks [[paper]](https://arxiv.org/abs/1804.00432)
 #### k-Space Deep Learning for Accelerated MRI [[paper]](https://arxiv.org/abs/1805.03779)
 #### Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and Segmentation [[paper]](https://arxiv.org/abs/1808.01200)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Ultrasound
 ### 2015
 #### Automatic Fetal Ultrasound Standard Plane Detection Using Knowledge Transferred Recurrent Neural Networks [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-24553-9_62)
+
 ### 2016
 #### Stacked Deep Polynomial Network Based Representation Learning for Tumor Classification with Small Ultrasound Image Dataset [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231216002344)
+#### Real-time Detection and Localisation of Fetal Standard Scan Planes in 2D Freehand Ultrasound 2016 [[paper]]()
+#### Real-time Standard Scan Plane Detection and Localisation in Fetal Ultrasound Using Fully Convolutional Neural Networks 2016 [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_24)
+#### Describing Ultrasound Video Content Using Deep Convolutional Neural Networks 2016 [[paper]](http://ieeexplore.ieee.org/document/7493384/)
+
 ### 2017
 #### Convolutional Neural Networks for Medical Image Analysis Full Training or Fine Tuning [[paepr]](https://arxiv.org/abs/1706.00712)
 #### Freehand Ultrasound Image Simulation with Spatially-Conditioned Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1707.05392)
 #### Simulating Patho-realistic Ultrasound Images using Deep Generative Networks with Adversarial Learning [[paper]](https://arxiv.org/abs/1712.07881)
 #### Anatomically Constrained Neural Networks (ACNN) Application to Cardiac Image Enhancement and Segmentation [[paper]](http://ieeexplore.ieee.org/document/8051114/)
+#### Hough-CNN Deep learning for segmentation of deep brain regions in MRI and ultrasound CVIU 2017 [[paper]](https://www.sciencedirect.com/science/article/pii/S1077314217300620)
+#### Cascaded Fully Convolutional Networks for Automatic Prenatal Ultrasound Image Segmentation 2017 [[paper]](http://ieeexplore.ieee.org/document/7950607/)
+#### Ultrasound Standard Plane Detection Using a Composite Neural Network Framework 2017 [[paper]](http://ieeexplore.ieee.org/document/7890445/)
+#### CNN-based Estimation of Abdominal Circumference from Ultrasound Images 2017 [[paper]](https://arxiv.org/abs/1702.02741)
+
 ### 2018
 #### Automatic Fetal Head Circumference Measurement in Ultrasound Using Random Forest and Fast Ellipse Fitting [[paper]](https://ieeexplore.ieee.org/document/7927411/)
 #### Human-level Performance On Automatic Head Biometrics In Fetal Ultrasound Using Fully Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1804.09102)
 #### Cascaded Transforming Multi-task Networks For Abdominal Biometric Estimation from Ultrasound [[paepr]](https://openreview.net/forum?id=r1ZGQW2if)
 #### Adversarial Image Registration with Application for MR and TRUS Image Fusion 2018 [[paper]](https://arxiv.org/abs/1804.11024)
 #### Fully Automatic Myocardial Segmentation of Contrast Echocardiography Sequence Using Random Forests Guided by Shape Model 2018 [[paper]](https://ieeexplore.ieee.org/document/8051098/)
+#### High Frame-rate Cardiac Ultrasound Imaging with Deep Learning MICCAI 2018 [[paper]](https://arxiv.org/abs/1808.07823)
+#### High Quality Ultrasonic Multi-line Transmission through Deep Learning MICCAI 2018 [[paper]](https://arxiv.org/abs/1808.07819)
+#### Deep Adversarial Context-Aware Landmark Detection for Ultrasound Imaging 2018 [[paper]](https://arxiv.org/abs/1805.10737)
+#### Weakly Supervised Localisation for Fetal Ultrasound Images DLMIAW 2018 [[paper]](https://arxiv.org/abs/1808.00793)
+#### Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network 2018 [[paper]](https://arxiv.org/abs/1806.07486)
+#### Less is More Simultaneous View Classification and Landmark Detection for Abdominal Ultrasound Images 2018 [[paper]](https://arxiv.org/abs/1805.10376)
+#### Attention-Gated Networks for Improving Ultrasound Scan Plane Detection 2018 [[paper]](https://openreview.net/forum?id=BJtn7-3sM)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## X-ray
 ### 2017
@@ -120,10 +142,12 @@
 ### 2018
 #### SCAN Structure Correcting Adversarial Network for Organ Segmentation in Chest X-rays [[paper]](https://openreview.net/forum?id=HJ1RffhjM)
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 ## PET
 ### 2017
 #### Virtual PET Images from CT Data Using Deep Convolutional Networks Initial Results [[paper]](https://arxiv.org/abs/1707.09585)
 #### Combo Loss Handling Input and Output Imbalance in Multi-Organ Segmentation Arxiv 2018 [[paper]](https://arxiv.org/abs/1805.02798)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Funduscopy
 ### 2016
@@ -132,6 +156,7 @@
 
 ### 2017
 #### Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1706.09318) [[Keras+TF code]](https://bitbucket.org/woalsdnd/v-gan)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ##  Microscopy
 ### 2016
@@ -143,20 +168,24 @@
 #### CNN Cascades for Segmenting Whole Slide Images of the Kidney [[paper]](https://arxiv.org/abs/1708.00251)
 #### Learning to Segment Breast Biopsy Whole Slide Images [[paper]](https://arxiv.org/abs/1709.02554)
 #### SFCN-OPI Detection and Fine-grained Classification of Nuclei Using Sibling FCN with Objectness Prior Interaction [[paper]](https://arxiv.org/abs/1712.08297)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Colonoscopy
 ### 2018
 #### Real-Time Polyps Segmentation for Colonoscopy Video Frames Using Compressed Fully Convolutional Network [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73603-7_32)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## OCT
 ### 2017
 #### Cystoid Macular Edema Segmentation of Optical Coherence Tomography Images Using Fully Convolutional Neural Networks and Fully Connected CRFs 2017 [[paper]](https://arxiv.org/abs/1709.05324)
------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------
 ## Dermoscopy
 ### 2016
 #### Automated Melanoma Recognition in Dermoscopy Images via Very Deep Residual Networks [[paper]](http://ieeexplore.ieee.org/document/7792699/)
 #### Hybrid dermoscopy image classification framework based on deep convolutional neural network and Fisher vector [[paper]](https://ieeexplore.ieee.org/document/7950524/)
 #### Automatic melanoma detection via multi-scale lesion-biased representation and joint reverse classification [[paper]](https://ieeexplore.ieee.org/document/7493447/)
+
 ### 2017
 #### Automatic Skin Lesion Segmentation Using Deep Fully Convolutional Networks with Jaccard Distance [[paper]](http://ieeexplore.ieee.org/document/7903636/)
 "Jaccard distance on one hand, is similar to the known Dice overlap coefficient (also a novel loss function in V-Net), on the other hand, in the above paper, is a novel loss function suitable for binary class segmentation task. obviously, Jaccard distance is similar to IoU (intersection over union), a strict metric in object/semantic segmentation in computer vision."
@@ -169,10 +198,12 @@
 #### Improving Dermoscopic Image Segmentation with Enhanced Convolutional-Deconvolutional Networks [[paper]](https://ieeexplore.ieee.org/document/8239798/)
 #### Dermoscopic Image Segmentation via Multi-Stage Fully Convolutional Networks [[paper]](http://ieeexplore.ieee.org/document/7942129/)
 #### Skin melanoma segmentation using recurrent and convolutional neural networks [[paper]](https://ieeexplore.ieee.org/document/7950522/)
+
 ### 2018
 #### DermoNet Densely Linked Convolutional Neural Network for Efficient Skin Lesion Segmentation [[paper]](https://openreview.net/forum?id=B167qcojM)
 #### Techniques and Algorithms for Computer Aided Diagnosis of Pigmented Skin Lesions A Review [[paper]](https://www.sciencedirect.com/science/article/pii/S1746809417301428)
 #### MelanoGANs High Resolution Skin Lesion Synthesis with GANs [[paper]](https://arxiv.org/abs/1804.04338)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Endoscopy
 ### 2018
