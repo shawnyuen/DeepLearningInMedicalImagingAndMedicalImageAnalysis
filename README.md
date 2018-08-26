@@ -7,6 +7,10 @@
 ### Deep Learning in Medical Image Analysis 2017 [[paper]](http://www.annualreviews.org/doi/10.1146/annurev-bioeng-071516-044442)
 ### Deep Learning in Microscopy Image Analysis A Survey 2017 [[paper]](https://ieeexplore.ieee.org/document/8118310/)
 
+## Datasets
+### ChestX-ray8 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases 2017
+"Chest"
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Computed Tomography (CT)
 ## 2015
@@ -137,13 +141,23 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # X-ray
+## 2016
+### Learning to Read Chest X-Rays Recurrent Neural Cascade Model for Automated Image Annotation 2016 [[paper]](https://arxiv.org/abs/1603.08486)
+
 ## 2017
 ### Accurate Lung Segmentation via Network-Wise Training of Convolutional Networks [[paper]](https://arxiv.org/abs/1708.00710)
 ### Abnormality Detection and Localization in Chest X-Rays using Deep Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1705.09850)
 ### Pediatric Bone Age Assessment Using Deep Convolutional Neural Networks 2017 [[paper]](https://arxiv.org/abs/1712.05053)
+### Cascade of Multi-scale Convolutional Neural Networks for Bone Suppression of Chest Radiographs in Gradient Domain 2017 [[paper]](http://www.sciencedirect.com/science/article/pii/S1361841516301529)
+### CheXNet Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning 2017 [[paper]](https://arxiv.org/abs/1711.05225)
 
 ## 2018
 ### SCAN Structure Correcting Adversarial Network for Organ Segmentation in Chest X-rays [[paper]](https://openreview.net/forum?id=HJ1RffhjM)
+### Fully Convolutional Architectures for Multiclass Segmentation in Chest Radiographs TMI 2018 [[paper]](https://ieeexplore.ieee.org/document/8302848/)
+### Semantic-Aware Generative Adversarial Nets for Unsupervised Domain Adaptation in Chest X-ray Segmentation 2018 [[paper]](https://arxiv.org/abs/1806.00600)
+### LF-SegNet A Fully Convolutional Encoder–Decoder Network for Segmenting Lung Fields from Chest Radiographs 2018 [[paper]](https://link.springer.com/article/10.1007/s11277-018-5702-9)
+### Learning to Recognize Abnormalities in Chest X-Rays with Location-Aware Dense Networks 2018 [[paper]]()
+### Comparison of Deep Learning Approaches for Multi-Label Chest X-Ray Classification 2018 [[paper]](https://arxiv.org/abs/1803.02315)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # PET
