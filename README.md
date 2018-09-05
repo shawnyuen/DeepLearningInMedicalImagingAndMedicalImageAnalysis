@@ -102,6 +102,8 @@
 ### Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and Segmentation [[paper]](https://arxiv.org/abs/1808.01200)
 ### Deformable Image Registration Using a Cue-Aware Deep Regression Network TBME 2018 [[paper]](https://ieeexplore.ieee.org/document/8331111/)
 ### Multi-Views Fusion CNN for Left Ventricular Volumes Estimation on Cardiac MR Images TBME 2018 [[paper]](https://ieeexplore.ieee.org/document/8067513/)
+### 3D Segmentation with Exponential Logarithmic Loss for Highly Unbalanced Object Sizes MICCAI 2018 [[paper]](https://arxiv.org/abs/1809.00076)
+"focal loss", "Exponential Logarithmic Loss"
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Ultrasound (US)
