@@ -28,7 +28,7 @@
 
 ## 2017
 ### Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[paper]](https://arxiv.org/abs/1708.00961)
-### Automatic Liver Segmentation Using an Adversarial Image-to-Image Network [[paper]](https://arxiv.org/abs/1707.08037)
+### Automatic Liver Segmentation Using an Adversarial Image-to-Image Network MICCAI 2017 [[paper]](https://arxiv.org/abs/1707.08037)
 ### Sharpness-aware Low Dose CT Denoising Using Conditional Generative Adversarial Network [[paper]](https://arxiv.org/abs/1708.06453)
 ### Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT [[paper]](https://arxiv.org/abs/1708.08333)
 ### Deep Embedding Convolutional Neural Network for Synthesizing CT Image from T1-Weighted MR Image [[paepr]](https://arxiv.org/abs/1709.02073)
@@ -58,6 +58,8 @@
 "reinforcement learning", "anatomical landmark localization", "aortic valve". "left atrial appendage"
 ### Deeply Self-Supervising Edge-to-Contour Neural Network Applied to Liver Segmentation [[paper]](https://arxiv.org/abs/1808.00739)
 ### Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network CVPR 2018 [[paper]](https://arxiv.org/abs/1802.09655)
+### AnatomyNet: Deep 3D Squeeze-and-excitation U-Nets for fast and fully automated whole-volume anatomical segmentation [[paper]](https://arxiv.org/abs/1808.05238)
+### DeepEM Deep 3D ConvNets With EM For Weakly Supervised Pulmonary Nodule Detection MICCAI 2018 [[paper]](https://arxiv.org/abs/1805.05373)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
@@ -160,6 +162,13 @@
 ### LF-SegNet A Fully Convolutional Encoder–Decoder Network for Segmenting Lung Fields from Chest Radiographs 2018 [[paper]](https://link.springer.com/article/10.1007/s11277-018-5702-9)
 ### Learning to Recognize Abnormalities in Chest X-Rays with Location-Aware Dense Networks 2018 [[paper]]()
 ### Comparison of Deep Learning Approaches for Multi-Label Chest X-Ray Classification 2018 [[paper]](https://arxiv.org/abs/1803.02315)
+### Breast Mass Segmentation and Shape Classification in Mammograms Using Deep Neural Networks [[paper]](https://arxiv.org/abs/1809.01687)
+"conditional generative adversarial networks", "INbreast", "digital database for screening mammography (DDSM)"
+### Medical Image Description Using Multi-task-loss CNN 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46976-8_13)
+### Conditional Generative Adversarial and Convolutional Networks for X-ray Breast Mass Segmentation and Shape Classification MICCAI 2018 [[paper]](https://arxiv.org/abs/1805.10207)
+### Benign and malignant breast tumors classification based on region growing and CNN segmentation ESA 2015 [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417414005594)
+### Adversarial Deep Structured Nets for Mass Segmentation from Mammograms ISBI 2018 [[paper]](https://arxiv.org/abs/1710.09288)
+### Improved Breast Mass Segmentation in Mammograms with Conditional Residual U-net MICCAI 2018 [[paper]](https://arxiv.org/abs/1808.08885)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # PET
@@ -178,6 +187,7 @@
 
 ## 2018
 ### Joint Segment-Level and Pixel-Wise Losses for Deep Learning Based Retinal Vessel Segmentation TBME 2018 [[paper]](https://ieeexplore.ieee.org/document/8341481/)
+### Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation TMI 2018 [[paper]](http://ieeexplore.ieee.org/document/8252743/)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 #  Microscopy
@@ -190,9 +200,17 @@
 ### CNN Cascades for Segmenting Whole Slide Images of the Kidney [[paper]](https://arxiv.org/abs/1708.00251)
 ### Learning to Segment Breast Biopsy Whole Slide Images [[paper]](https://arxiv.org/abs/1709.02554)
 ### SFCN-OPI Detection and Fine-grained Classification of Nuclei Using Sibling FCN with Objectness Prior Interaction [[paper]](https://arxiv.org/abs/1712.08297)
+### MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_MDNet_A_Semantically_CVPR_2017_paper.pdf)
+
+## 2018
+### Deep Learning Framework for Multi-class Breast Cancer Histology Image Classification ICIAR 2018 [[paper]](https://arxiv.org/abs/1802.00931)
+### Cancer Metastasis Detection With Neural Conditional Random Field MIDL 2018 [[paper]](https://arxiv.org/abs/1806.07064)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Colonoscopy
+## 2016
+### Convolutional Neural Networks for Medical Image Analysis Full Training or Fine Tuning TMI 2016 [[papr]](http://ieeexplore.ieee.org/document/7426826/)
+
 ## 2018
 ### Real-Time Polyps Segmentation for Colonoscopy Video Frames Using Compressed Fully Convolutional Network [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73603-7_32)
 
@@ -225,6 +243,7 @@
 ### DermoNet Densely Linked Convolutional Neural Network for Efficient Skin Lesion Segmentation [[paper]](https://openreview.net/forum?id=B167qcojM)
 ### Techniques and Algorithms for Computer Aided Diagnosis of Pigmented Skin Lesions A Review [[paper]](https://www.sciencedirect.com/science/article/pii/S1746809417301428)
 ### MelanoGANs High Resolution Skin Lesion Synthesis with GANs [[paper]](https://arxiv.org/abs/1804.04338)
+### SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling Networks MICCAI 2018 [[paper]](https://arxiv.org/abs/1805.10241)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Endoscopy
