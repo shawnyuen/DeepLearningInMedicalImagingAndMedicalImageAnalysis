@@ -106,6 +106,7 @@
 ### Multi-Views Fusion CNN for Left Ventricular Volumes Estimation on Cardiac MR Images TBME 2018 [[paper]](https://ieeexplore.ieee.org/document/8067513/)
 ### 3D Segmentation with Exponential Logarithmic Loss for Highly Unbalanced Object Sizes MICCAI 2018 [[paper]](https://arxiv.org/abs/1809.00076)
 "focal loss", "Exponential Logarithmic Loss"
+### Whole Heart and Great Vessel Segmentation with Context-aware of Generative Adversarial Networks 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-662-56537-7_89)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Ultrasound (US)
@@ -145,6 +146,9 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # X-ray
+## 2015
+### Deep Learning and Structured Prediction for the Segmentation of Mass in Mamograms MICCAI 2015 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-24553-9_74)
+
 ## 2016
 ### Learning to Read Chest X-Rays Recurrent Neural Cascade Model for Automated Image Annotation 2016 [[paper]](https://arxiv.org/abs/1603.08486)
 
@@ -154,6 +158,11 @@
 ### Pediatric Bone Age Assessment Using Deep Convolutional Neural Networks 2017 [[paper]](https://arxiv.org/abs/1712.05053)
 ### Cascade of Multi-scale Convolutional Neural Networks for Bone Suppression of Chest Radiographs in Gradient Domain 2017 [[paper]](http://www.sciencedirect.com/science/article/pii/S1361841516301529)
 ### CheXNet Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning 2017 [[paper]](https://arxiv.org/abs/1711.05225)
+### Adversarial Deep Structural Networks for Mammographic Mass Segmentation MICCAI 2017 [[paper]](https://arxiv.org/abs/1612.05970)
+### Deep Multi-instance Networks with Sparse Label Assignment for Whole Mammogram Classification MICCAI 2017 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_69)
+### A Multi-scale CNN and Curriculum Learning Strategy for Mammogram Classification 2017 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-67558-9_20)
+### High-Resolution Breast Cancer Screening with Multi-View Deep Convolutional Neural Networks 2017 [[paper]](https://arxiv.org/abs/1703.07047)
+### Automated Analysis of Unregistered Multi-View Mammograms With Deep Learning TMI 2017 [[paper]](https://ieeexplore.ieee.org/document/8032490/)
 
 ## 2018
 ### SCAN Structure Correcting Adversarial Network for Organ Segmentation in Chest X-rays [[paper]](https://openreview.net/forum?id=HJ1RffhjM)
@@ -169,6 +178,9 @@
 ### Benign and malignant breast tumors classification based on region growing and CNN segmentation ESA 2015 [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417414005594)
 ### Adversarial Deep Structured Nets for Mass Segmentation from Mammograms ISBI 2018 [[paper]](https://arxiv.org/abs/1710.09288)
 ### Improved Breast Mass Segmentation in Mammograms with Conditional Residual U-net MICCAI 2018 [[paper]](https://arxiv.org/abs/1808.08885)
+### Thoracic Disease Identification and Localization with Limited Supervision CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Li_Thoracic_Disease_Identification_CVPR_2018_paper.pdf)
+### Weakly Supervised Medical Diagnosis and Localization from Multiple Resolutions 2018 [[paper]](https://arxiv.org/abs/1803.07703)
+### Mass detection in digital breast tomosynthesis data using convolutional neural networks and multiple instance learning CBM 2018 [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482518300799)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # PET
