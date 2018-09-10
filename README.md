@@ -60,6 +60,7 @@
 ### Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network CVPR 2018 [[paper]](https://arxiv.org/abs/1802.09655)
 ### AnatomyNet: Deep 3D Squeeze-and-excitation U-Nets for fast and fully automated whole-volume anatomical segmentation [[paper]](https://arxiv.org/abs/1808.05238)
 ### DeepEM Deep 3D ConvNets With EM For Weakly Supervised Pulmonary Nodule Detection MICCAI 2018 [[paper]](https://arxiv.org/abs/1805.05373)
+### Computation of Total Kidney Volume from CT images in Autosomal Dominant Polycystic Kidney Disease using Multi-Task 3D Convolutional Neural Networks 2018 [[paper]](https://arxiv.org/abs/1809.02268)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
@@ -250,12 +251,14 @@
 ### Improving Dermoscopic Image Segmentation with Enhanced Convolutional-Deconvolutional Networks [[paper]](https://ieeexplore.ieee.org/document/8239798/)
 ### Dermoscopic Image Segmentation via Multi-Stage Fully Convolutional Networks [[paper]](http://ieeexplore.ieee.org/document/7942129/)
 ### Skin melanoma segmentation using recurrent and convolutional neural networks [[paper]](https://ieeexplore.ieee.org/document/7950522/)
+### Skin Lesion Classification Using Hybrid Deep Neural Networks 2017 [[paper]](https://arxiv.org/abs/1702.08434)
 
 ## 2018
 ### DermoNet Densely Linked Convolutional Neural Network for Efficient Skin Lesion Segmentation [[paper]](https://openreview.net/forum?id=B167qcojM)
 ### Techniques and Algorithms for Computer Aided Diagnosis of Pigmented Skin Lesions A Review [[paper]](https://www.sciencedirect.com/science/article/pii/S1746809417301428)
 ### MelanoGANs High Resolution Skin Lesion Synthesis with GANs [[paper]](https://arxiv.org/abs/1804.04338)
 ### SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling Networks MICCAI 2018 [[paper]](https://arxiv.org/abs/1805.10241)
+### Skin Lesion Classification with Ensemble of Squeeze-and-excitation Networks and Semi-supervised Learning 2018 [[paper]](https://arxiv.org/abs/1809.02568)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Endoscopy
