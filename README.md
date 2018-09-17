@@ -108,6 +108,8 @@
 ### 3D Segmentation with Exponential Logarithmic Loss for Highly Unbalanced Object Sizes MICCAI 2018 [[paper]](https://arxiv.org/abs/1809.00076)
 "focal loss", "Exponential Logarithmic Loss"
 ### Whole Heart and Great Vessel Segmentation with Context-aware of Generative Adversarial Networks 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-662-56537-7_89)
+### An Unsupervised Learning Model for Deformable Medical Image Registration CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Balakrishnan_An_Unsupervised_Learning_CVPR_2018_paper.html)
+### VoxelMorph: A Learning Framework for Deformable Medical Image Registration IEEE TMI 2018 [[paper]](https://arxiv.org/abs/1809.05231)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Ultrasound (US)
