@@ -6,6 +6,7 @@
 ### Deep Learning Applications in Medical Image Analysis 2017 [[paper]](https://ieeexplore.ieee.org/document/8241753/)
 ### Deep Learning in Medical Image Analysis 2017 [[paper]](http://www.annualreviews.org/doi/10.1146/annurev-bioeng-071516-044442)
 ### Deep Learning in Microscopy Image Analysis A Survey 2017 [[paper]](https://ieeexplore.ieee.org/document/8118310/)
+### GANs for Medical Image Analysis 2018 [[paper]](https://arxiv.org/abs/1809.06222)
 
 ## Datasets
 ### ChestX-ray8 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases 2017
