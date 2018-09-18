@@ -62,6 +62,7 @@
 ### AnatomyNet: Deep 3D Squeeze-and-excitation U-Nets for fast and fully automated whole-volume anatomical segmentation [[paper]](https://arxiv.org/abs/1808.05238)
 ### DeepEM Deep 3D ConvNets With EM For Weakly Supervised Pulmonary Nodule Detection MICCAI 2018 [[paper]](https://arxiv.org/abs/1805.05373)
 ### Computation of Total Kidney Volume from CT images in Autosomal Dominant Polycystic Kidney Disease using Multi-Task 3D Convolutional Neural Networks 2018 [[paper]](https://arxiv.org/abs/1809.02268)
+### Btrfly Net: Vertebrae Labelling with Energy-based Adversarial Learning of Local Spine Prior [[paper]](https://arxiv.org/abs/1804.01307)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
