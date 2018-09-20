@@ -7,6 +7,7 @@
 ### Deep Learning in Medical Image Analysis 2017 [[paper]](http://www.annualreviews.org/doi/10.1146/annurev-bioeng-071516-044442)
 ### Deep Learning in Microscopy Image Analysis A Survey 2017 [[paper]](https://ieeexplore.ieee.org/document/8118310/)
 ### GANs for Medical Image Analysis 2018 [[paper]](https://arxiv.org/abs/1809.06222)
+### Generative Adversarial Network in Medical Imaging: A Review 2018 [[paper]](https://arxiv.org/abs/1809.07294)
 
 ## Datasets
 ### ChestX-ray8 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases 2017
@@ -63,6 +64,7 @@
 ### DeepEM Deep 3D ConvNets With EM For Weakly Supervised Pulmonary Nodule Detection MICCAI 2018 [[paper]](https://arxiv.org/abs/1805.05373)
 ### Computation of Total Kidney Volume from CT images in Autosomal Dominant Polycystic Kidney Disease using Multi-Task 3D Convolutional Neural Networks 2018 [[paper]](https://arxiv.org/abs/1809.02268)
 ### Btrfly Net: Vertebrae Labelling with Energy-based Adversarial Learning of Local Spine Prior [[paper]](https://arxiv.org/abs/1804.01307)
+### Deep Learning Based Rib Centerline Extraction and Labeling [[paper]](https://arxiv.org/abs/1809.07082)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
