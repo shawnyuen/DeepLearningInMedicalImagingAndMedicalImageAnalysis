@@ -163,6 +163,7 @@
 ### Accurate Lung Segmentation via Network-Wise Training of Convolutional Networks [[paper]](https://arxiv.org/abs/1708.00710)
 ### Abnormality Detection and Localization in Chest X-Rays using Deep Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1705.09850)
 ### Pediatric Bone Age Assessment Using Deep Convolutional Neural Networks 2017 [[paper]](https://arxiv.org/abs/1712.05053)
+"reimplement this recently", "segmentation data for normalization was done"
 ### Cascade of Multi-scale Convolutional Neural Networks for Bone Suppression of Chest Radiographs in Gradient Domain 2017 [[paper]](http://www.sciencedirect.com/science/article/pii/S1361841516301529)
 ### CheXNet Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning 2017 [[paper]](https://arxiv.org/abs/1711.05225)
 ### Adversarial Deep Structural Networks for Mammographic Mass Segmentation MICCAI 2017 [[paper]](https://arxiv.org/abs/1612.05970)
@@ -170,6 +171,8 @@
 ### A Multi-scale CNN and Curriculum Learning Strategy for Mammogram Classification 2017 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-67558-9_20)
 ### High-Resolution Breast Cancer Screening with Multi-View Deep Convolutional Neural Networks 2017 [[paper]](https://arxiv.org/abs/1703.07047)
 ### Automated Analysis of Unregistered Multi-View Mammograms With Deep Learning TMI 2017 [[paper]](https://ieeexplore.ieee.org/document/8032490/)
+### Deep Learning for Automated Skeletal Bone Age Assessment in X-ray Images MedIA 2017
+"focus on this recently (20181001)"
 
 ## 2018
 ### SCAN Structure Correcting Adversarial Network for Organ Segmentation in Chest X-rays [[paper]](https://openreview.net/forum?id=HJ1RffhjM)
