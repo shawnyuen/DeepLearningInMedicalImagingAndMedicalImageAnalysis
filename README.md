@@ -10,8 +10,12 @@
 ### Generative Adversarial Network in Medical Imaging: A Review 2018 [[paper]](https://arxiv.org/abs/1809.07294)
 
 ## Datasets
+### Development of a Digital Image Database for Chest Radiographs with and without a Lung Nodule AJR 2000
+"Chest Radiographs", "the JSRT database"
+### Segmentation of Anatomical Structures in Chest Radiographs Using Supervised Methods A Comparative Study on a Public Database MedIA 2006
+"Chest Radiographs", "the SCR dataset (ground-truth segmentation masks) for the JSRT database (X-ray images)"
 ### ChestX-ray8 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases 2017
-"Chest"
+"Chest Radiographs"
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Computed Tomography (CT)
@@ -160,7 +164,7 @@
 ### Learning to Read Chest X-Rays Recurrent Neural Cascade Model for Automated Image Annotation 2016 [[paper]](https://arxiv.org/abs/1603.08486)
 
 ## 2017
-### Accurate Lung Segmentation via Network-Wise Training of Convolutional Networks [[paper]](https://arxiv.org/abs/1708.00710)
+### Accurate Lung Segmentation via Network-Wise Training of Convolutional Networks DLMIA 2017 [[paper]](https://arxiv.org/abs/1708.00710)
 ### Abnormality Detection and Localization in Chest X-Rays using Deep Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1705.09850)
 ### Pediatric Bone Age Assessment Using Deep Convolutional Neural Networks 2017 [[paper]](https://arxiv.org/abs/1712.05053)
 "reimplement this recently", "segmentation data for normalization was done"
@@ -176,7 +180,7 @@
 
 ## 2018
 ### SCAN Structure Correcting Adversarial Network for Organ Segmentation in Chest X-rays [[paper]](https://openreview.net/forum?id=HJ1RffhjM)
-### Fully Convolutional Architectures for Multiclass Segmentation in Chest Radiographs TMI 2018 [[paper]](https://ieeexplore.ieee.org/document/8302848/)
+### Fully Convolutional Architectures for Multiclass Segmentation in Chest Radiographs IEEE TMI 2018 [[TMI paper]](https://ieeexplore.ieee.org/document/8302848/) [[ArXiv paper]](https://arxiv.org/abs/1701.08816)
 ### Semantic-Aware Generative Adversarial Nets for Unsupervised Domain Adaptation in Chest X-ray Segmentation 2018 [[paper]](https://arxiv.org/abs/1806.00600)
 ### LF-SegNet A Fully Convolutional Encoder–Decoder Network for Segmenting Lung Fields from Chest Radiographs 2018 [[paper]](https://link.springer.com/article/10.1007/s11277-018-5702-9)
 ### Learning to Recognize Abnormalities in Chest X-Rays with Location-Aware Dense Networks 2018 [[paper]]()
@@ -191,6 +195,7 @@
 ### Thoracic Disease Identification and Localization with Limited Supervision CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Li_Thoracic_Disease_Identification_CVPR_2018_paper.pdf)
 ### Weakly Supervised Medical Diagnosis and Localization from Multiple Resolutions 2018 [[paper]](https://arxiv.org/abs/1803.07703)
 ### Mass detection in digital breast tomosynthesis data using convolutional neural networks and multiple instance learning CBM 2018 [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482518300799)
+### Improving the Segmentation of Anatomical Structures in Chest Radiographs using U-Net with an ImageNet Pre-trained Encoder RAMBO 2018 [[paper]](https://arxiv.org/abs/1810.02113)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # PET
