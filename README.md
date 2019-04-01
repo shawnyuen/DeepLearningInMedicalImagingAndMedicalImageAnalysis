@@ -8,6 +8,8 @@
 ### Deep Learning in Microscopy Image Analysis A Survey 2017 [[paper]](https://ieeexplore.ieee.org/document/8118310/)
 ### GANs for Medical Image Analysis 2018 [[paper]](https://arxiv.org/abs/1809.06222)
 ### Generative Adversarial Network in Medical Imaging: A Review 2018 [[paper]](https://arxiv.org/abs/1809.07294)
+### Deep Learning in Medical Image Registration: A Survey 2019 [[paper]](https://arxiv.org/abs/1903.02026)
+### Deep Learning in Medical Ultrasound Analysis: A Review Engineering 2019 [[paper]](https://www.sciencedirect.com/science/article/pii/S2095809918301887)
 
 ## Datasets
 ### Development of a Digital Image Database for Chest Radiographs with and without a Lung Nodule AJR 2000
@@ -16,6 +18,8 @@
 "Chest Radiographs", "the SCR dataset (ground-truth segmentation masks) for the JSRT database (X-ray images)"
 ### ChestX-ray8 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases 2017
 "Chest Radiographs"
+### KiTS 2019 [[dataset]](https://github.com/neheller/kits19)
+"300 Abdomen CT scans for kidney and tumor segmentation"
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Computed Tomography (CT)
@@ -69,6 +73,13 @@
 ### Computation of Total Kidney Volume from CT images in Autosomal Dominant Polycystic Kidney Disease using Multi-Task 3D Convolutional Neural Networks 2018 [[paper]](https://arxiv.org/abs/1809.02268)
 ### Btrfly Net: Vertebrae Labelling with Energy-based Adversarial Learning of Local Spine Prior [[paper]](https://arxiv.org/abs/1804.01307)
 ### Deep Learning Based Rib Centerline Extraction and Labeling [[paper]](https://arxiv.org/abs/1809.07082)
+### Liver Lesion Detection from Weakly-Labeled Multi-phase CT Volumes with a Grouped Single Shot MultiBox Detector MICCAI 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_77)
+### CFUN: Combining Faster R-CNN and U-net Network for Efficient Whole Heart Segmentation 2018 [[paper]](https://arxiv.org/abs/1812.04914)
+### Deep Lesion Graphs in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-Scale Lesion Database CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Yan_Deep_Lesion_Graphs_CVPR_2018_paper.html)
+### 3D Deep Learning from CT Scans Predicts Tumor Invasiveness of Subcentimeter Pulmonary Adenocarcinomas CR 2018 [[paper]](http://cancerres.aacrjournals.org/content/78/24/6881.short)
+
+## 2019
+### Efficient Multiple Organ Localization in CT Image using 3D Region Proposal Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8625393)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
@@ -118,6 +129,10 @@
 ### Whole Heart and Great Vessel Segmentation with Context-aware of Generative Adversarial Networks 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-662-56537-7_89)
 ### An Unsupervised Learning Model for Deformable Medical Image Registration CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Balakrishnan_An_Unsupervised_Learning_CVPR_2018_paper.html)
 ### VoxelMorph: A Learning Framework for Deformable Medical Image Registration IEEE TMI 2018 [[paper]](https://arxiv.org/abs/1809.05231)
+### Direct delineation of myocardial infarction without contrast agents using a joint motion feature learning architecture MedIA 2018 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518306960)
+
+## 2019
+### Fully Automatic Left Atrium Segmentation From Late Gadolinium Enhanced Magnetic Resonance Imaging Using a Dual Fully Convolutional Neural Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8447517)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Ultrasound (US)
@@ -153,7 +168,11 @@
 ### Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network 2018 [[paper]](https://arxiv.org/abs/1806.07486)
 ### Less is More Simultaneous View Classification and Landmark Detection for Abdominal Ultrasound Images 2018 [[paper]](https://arxiv.org/abs/1805.10376)
 ### Attention-Gated Networks for Improving Ultrasound Scan Plane Detection 2018 [[paper]](https://openreview.net/forum?id=BJtn7-3sM)
-### A Radiomics Approach With CNN for Shear-Wave Elastography Breast Tumor Classification TBME 2018 [[paper]](https://ieeexplore.ieee.org/document/8372445/)
+### A Radiomics Approach With CNN for Shear-Wave Elastography Breast Tumor Classification IEEE TBME 2018 [[paper]](https://ieeexplore.ieee.org/document/8372445/)
+### Identification of Metastatic Lymph Nodes in MR Imaging with Faster Region-Based Convolutional Neural Networks CR 2018 [[paper]](http://cancerres.aacrjournals.org/content/78/17/5135.short)
+
+## 2019
+### Tumor Detection in Automated Breast Ultrasound Using 3-D CNN and Prioritized Candidate Aggregation IEEE TMI 2018 [[paper]](Tumor Detection in Automated Breast Ultrasound Using 3-D CNN and Prioritized Candidate Aggregation)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # X-ray
@@ -196,12 +215,19 @@
 ### Weakly Supervised Medical Diagnosis and Localization from Multiple Resolutions 2018 [[paper]](https://arxiv.org/abs/1803.07703)
 ### Mass detection in digital breast tomosynthesis data using convolutional neural networks and multiple instance learning CBM 2018 [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482518300799)
 ### Improving the Segmentation of Anatomical Structures in Chest Radiographs using U-Net with an ImageNet Pre-trained Encoder RAMBO 2018 [[paper]](https://arxiv.org/abs/1810.02113)
+
+## 2019
+### Learning to detect chest radiographs containing pulmonary lesions using visual attention networks MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304997)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# PET
+# Positron Emission Tomography (PET)
 ## 2017
 ### Virtual PET Images from CT Data Using Deep Convolutional Networks Initial Results [[paper]](https://arxiv.org/abs/1707.09585)
 ### Combo Loss Handling Input and Output Imbalance in Multi-Organ Segmentation Arxiv 2018 [[paper]](https://arxiv.org/abs/1805.02798)
+
+## 2018
+### Iterative PET Image Reconstruction Using Convolutional Neural Network Representation IEEE TMI 2018 [[paper]](https://ieeexplore.ieee.org/document/8463596)
+### PET Image Reconstruction Using Deep Image Prior IEEE TMI 2018 [[paper]](https://ieeexplore.ieee.org/document/8581448)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Funduscopy
@@ -215,6 +241,9 @@
 ## 2018
 ### Joint Segment-Level and Pixel-Wise Losses for Deep Learning Based Retinal Vessel Segmentation TBME 2018 [[paper]](https://ieeexplore.ieee.org/document/8341481/)
 ### Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation TMI 2018 [[paper]](http://ieeexplore.ieee.org/document/8252743/)
+
+## 2019
+### CE-Net: Context Encoder Network for 2D Medical Image Segmentation IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8662594)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 #  Microscopy
@@ -232,6 +261,10 @@
 ## 2018
 ### Deep Learning Framework for Multi-class Breast Cancer Histology Image Classification ICIAR 2018 [[paper]](https://arxiv.org/abs/1802.00931)
 ### Cancer Metastasis Detection With Neural Conditional Random Field MIDL 2018 [[paper]](https://arxiv.org/abs/1806.07064)
+### DeepMitosis: Mitosis detection via deep detection, verification and segmentation networks MedIA 2018 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841517301834)
+
+## 2019 
+### Weakly supervised mitosis detection in breast histopathology images using concentric loss MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841519300118)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Colonoscopy
