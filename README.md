@@ -18,7 +18,7 @@
 "Chest Radiographs", "the JSRT database"
 ### Segmentation of Anatomical Structures in Chest Radiographs Using Supervised Methods A Comparative Study on a Public Database MedIA 2006
 "Chest Radiographs", "the SCR dataset (ground-truth segmentation masks) for the JSRT database (X-ray images)"
-### ChestX-ray8 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases 2017
+### ChestX-ray8 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases CVPR 2017 [[dataset]](https://nihcc.app.box.com/v/ChestXray-NIHCC)
 "Chest Radiographs"
 ### KiTS 2019 [[dataset]](https://github.com/neheller/kits19)
 "300 Abdomen CT scans for kidney and tumor segmentation"
