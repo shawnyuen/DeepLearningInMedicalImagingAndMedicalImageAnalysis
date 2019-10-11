@@ -22,12 +22,13 @@
 "Chest Radiographs"
 ### KiTS 2019 [[dataset]](https://github.com/neheller/kits19)
 "300 Abdomen CT scans for kidney and tumor segmentation"
+### CHD_Segmentation [[dataset]](https://github.com/XiaoweiXu/Whole-heart-and-great-vessel-segmentation-of-chd_segmentation/tree/master)
+"68 CT images with labels. The label includes left ventricle, right ventricle, left atrium, right atrium, myocardium, aorta, and pulmonary artery."
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Computed Tomography (CT)
 ## 2015
 ### 3D Deep Learning for Efficient and Robust Landmark Detection in Volumetric Data MICCAI 2015 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-24553-9_69)
-"focus it recently"
 
 ## 2016
 ### Low-dose CT Denoising with Convolutional Neural Network [[paper]](https://arxiv.org/abs/1610.00321)
