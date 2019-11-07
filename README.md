@@ -14,6 +14,7 @@
 ### Deep learning in Medical Imaging and Radiation Therapy MP 2019 [[paper]](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.13264)
 ### Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges JDI 2019 [[paper]](https://link.springer.com/article/10.1007/s10278-019-00227-x)
 ### Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation arXiv [[paper]](https://arxiv.org/abs/1908.10454)
+### Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Technical Aspects and Introduction to State-of-Art Applications arXiv [[paper]](https://arxiv.org/abs/1911.02521)
 
 ## Datasets
 ### Development of a Digital Image Database for Chest Radiographs with and without a Lung Nodule AJR 2000
