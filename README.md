@@ -323,5 +323,7 @@
 ### Patch-based adaptive weighting with segmentation and scale (PAWSS) for visual tracking in surgical video MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841519300593)
 ### Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video MICCAI 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_49)
 ### 2017 Robotic Instrument Segmentation Challenge arXiv 2019 [[paper]](https://arxiv.org/abs/1902.06426)
+### Endoscopy artifact detection (EAD 2019) challenge dataset arXiv 2019 [[paper]](https://arxiv.org/abs/1905.03209)
+### A deep learning framework for quality assessment and restoration in video endoscopy arXiv 2019 [[paper]](https://arxiv.org/abs/1904.07073)
 ## 2020
 ### Multi-task recurrent convolutional network with correlation loss for surgical video analysis MedIA 2020 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841519301124)
