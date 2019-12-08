@@ -316,4 +316,11 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Endoscopy
 ## 2018
-### Articulated Multi-Instrument 2-D Pose Estimation Using Fully Convolutional Networks 2018 [[paper]](https://ieeexplore.ieee.org/document/8259318/) [[code]](https://github.com/surgical-vision/EndoVisPoseAnnotation)
+### Articulated Multi-Instrument 2-D Pose Estimation Using Fully Convolutional Networks IEEE TMI 2018 [[paper]](https://ieeexplore.ieee.org/document/8259318/) [[code]](https://github.com/surgical-vision/EndoVisPoseAnnotation)
+### 3-D Pose Estimation of Articulated Instruments in Robotic Minimally Invasive Surgery IEEE TMI 2018 [[paper]](https://ieeexplore.ieee.org/document/8295119)
+## 2019
+### Quantification and Analysis of Laryngeal Closure From Endoscopic Videos IEEE TBME 2019 [[paper]](https://ieeexplore.ieee.org/document/8450618)
+### Patch-based adaptive weighting with segmentation and scale (PAWSS) for visual tracking in surgical video MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841519300593)
+### Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video MICCAI 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_49)
+## 2020
+### Multi-task recurrent convolutional network with correlation loss for surgical video analysis MedIA 2020 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841519301124)
