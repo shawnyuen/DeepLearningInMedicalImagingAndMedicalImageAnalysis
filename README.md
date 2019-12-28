@@ -27,6 +27,9 @@
 "300 Abdomen CT scans for kidney and tumor segmentation"
 ### CHD_Segmentation [[dataset]](https://github.com/XiaoweiXu/Whole-heart-and-great-vessel-segmentation-of-chd_segmentation/tree/master)
 "68 CT images with labels. The label includes left ventricle, right ventricle, left atrium, right atrium, myocardium, aorta, and pulmonary artery."
+### Skin Lesion Analysis Toward Melanoma Detection 2018 A Challenge Hosted by the International Skin Imaging Collaboration (ISIC) arXiv 2019
+### ISIC 2017 - Skin Lesion Analysis Towards Melanoma Detection arXiv 2017 [[paper]](https://arxiv.org/abs/1703.00523)
+"ISIC2016", "ISIC2017", "ISIC2018", "ISIC2019"
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Computed Tomography (CT)
@@ -288,11 +291,12 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Dermoscopy
 ## 2016
-### Automated Melanoma Recognition in Dermoscopy Images via Very Deep Residual Networks [[paper]](http://ieeexplore.ieee.org/document/7792699/)
+### Automatic Melanoma Detection via Multi-scale Lesion-biased Representation and Joint Reverse Classification IEEE ISBI 2016 [[paepr]](https://ieeexplore.ieee.org/document/7493447/)
 ### Hybrid dermoscopy image classification framework based on deep convolutional neural network and Fisher vector [[paper]](https://ieeexplore.ieee.org/document/7950524/)
 ### Automatic melanoma detection via multi-scale lesion-biased representation and joint reverse classification [[paper]](https://ieeexplore.ieee.org/document/7493447/)
 
 ## 2017
+### Automated Melanoma Recognition in Dermoscopy Images via Very Deep Residual Networks IEEE TMI 2017 [[paper]](http://ieeexplore.ieee.org/document/7792699/)
 ### Automatic Skin Lesion Segmentation Using Deep Fully Convolutional Networks with Jaccard Distance [[paper]](http://ieeexplore.ieee.org/document/7903636/)
 "Jaccard distance on one hand, is similar to the known Dice overlap coefficient (also a novel loss function in V-Net), on the other hand, in the above paper, is a novel loss function suitable for binary class segmentation task. obviously, Jaccard distance is similar to IoU (intersection over union), a strict metric in object/semantic segmentation in computer vision."
 ### Investigating deep side layers for skin lesion segmentation [[paper]](https://ieeexplore.ieee.org/document/7950514/)
@@ -303,15 +307,31 @@
 "Multi-class (classification and segmentation)"
 ### Improving Dermoscopic Image Segmentation with Enhanced Convolutional-Deconvolutional Networks [[paper]](https://ieeexplore.ieee.org/document/8239798/)
 ### Dermoscopic Image Segmentation via Multi-Stage Fully Convolutional Networks [[paper]](http://ieeexplore.ieee.org/document/7942129/)
-### Skin melanoma segmentation using recurrent and convolutional neural networks [[paper]](https://ieeexplore.ieee.org/document/7950522/)
+### Skin Melanoma Segmentation Using Recurrent and Convolutional Neural Networks IEEE ISBI 2017 [[paper]](https://ieeexplore.ieee.org/document/7950522/)
 ### Skin Lesion Classification Using Hybrid Deep Neural Networks 2017 [[paper]](https://arxiv.org/abs/1702.08434)
+### Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble arXiv 2017 [[paper]](https://arxiv.org/abs/1703.03108)
+### Knowledge Transfer for Melanoma Screening with Deep Learning 2017 [[paper]](https://ieeexplore.ieee.org/document/7950523/)
 
 ## 2018
+### Melanoma Recognition in Dermoscopy Images via Aggregated Deep Convolutional Features IEEE TBME 2018 [[paper]](https://ieeexplore.ieee.org/document/8440053/)
+### Classification for Dermoscopy Images Using Convolutional Neural Networks Based on Region Average Pooling IEEE Access 2018 [[paper]](https://ieeexplore.ieee.org/document/8502872)
+### A Multi-task Framework with Feature Passing Module for Skin Lesion Classification and Segmentation IEEE ISBI 2018 [[paper]](https://ieeexplore.ieee.org/document/8363769/)
+### Skin Lesion Analysis Toward Melanoma Detection IEEE ISBI 2018 [[paper]](https://ieeexplore.ieee.org/document/8363547/)
+### A Deep Residual Architecture for Skin Lesion Segmentation ISIC 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-01201-4_30)
 ### DermoNet Densely Linked Convolutional Neural Network for Efficient Skin Lesion Segmentation [[paper]](https://openreview.net/forum?id=B167qcojM)
 ### Techniques and Algorithms for Computer Aided Diagnosis of Pigmented Skin Lesions A Review [[paper]](https://www.sciencedirect.com/science/article/pii/S1746809417301428)
 ### MelanoGANs High Resolution Skin Lesion Synthesis with GANs [[paper]](https://arxiv.org/abs/1804.04338)
 ### SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling Networks MICCAI 2018 [[paper]](https://arxiv.org/abs/1805.10241)
 ### Skin Lesion Classification with Ensemble of Squeeze-and-excitation Networks and Semi-supervised Learning 2018 [[paper]](https://arxiv.org/abs/1809.02568)
+
+## 2019
+### Melanoma Recognition via Visual Attention IPMI 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-20351-1_62)
+### Fully Convolutional Neural Networks to Detect Clinical Dermoscopic Features IEEE JBHI 2019 [[paper]](https://ieeexplore.ieee.org/document/8353143)
+### DermaKNet Incorporating the Knowledge of Dermatologists to Convolutional Neural Networks for Skin Lesion Diagnosis IEEE JBHI 2019 [[paper]](https://ieeexplore.ieee.org/document/8293766)
+### Towards Automated Melanoma Detection with Deep Learning Data Purification and Augmentation CVPRW 2019 [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/ISIC/Bisla_Towards_Automated_Melanoma_Detection_With_Deep_Learning_Data_Purification_and_CVPRW_2019_paper.html)
+### Solo or Ensemble Choosing a CNN Architecture for Melanoma Classification CVPRW 2019 [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/ISIC/Perez_Solo_or_Ensemble_Choosing_a_CNN_Architecture_for_Melanoma_Classification_CVPRW_2019_paper.html)
+### Deep Attention Model for the Hierarchical Diagnosis of Skin Lesions CVPRW 2019 [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/ISIC/Barata_Deep_Attention_Model_for_the_Hierarchical_Diagnosis_of_Skin_Lesions_CVPRW_2019_paper.html)
+### Skin Lesion Classification Using Convolutional Neural Network with Novel Regularizer IEEE Access 2019 [[paper]](https://ieeexplore.ieee.org/document/8669763)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Endoscopy
