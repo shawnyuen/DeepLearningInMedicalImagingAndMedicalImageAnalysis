@@ -7,14 +7,16 @@
 ### Deep Learning in Medical Image Analysis 2017 [[paper]](http://www.annualreviews.org/doi/10.1146/annurev-bioeng-071516-044442)
 ### Deep Learning in Microscopy Image Analysis A Survey 2017 [[paper]](https://ieeexplore.ieee.org/document/8118310/)
 ### GANs for Medical Image Analysis 2018 [[paper]](https://arxiv.org/abs/1809.06222)
-### Generative Adversarial Network in Medical Imaging A Review 2018 [[paper]](https://arxiv.org/abs/1809.07294)
-### Deep Learning in Medical Image Registration A Survey 2019 [[paper]](https://arxiv.org/abs/1903.02026)
+### Generative Adversarial Network in Medical Imaging: A Review 2018 [[paper]](https://arxiv.org/abs/1809.07294)
+### Deep Learning in Medical Image Registration: A Survey 2019 [[paper]](https://arxiv.org/abs/1903.02026)
+### Deep Learning in Medical Image Registration: A Review 2019 [[paper]](https://arxiv.org/abs/1912.12318)
 ### Deep Learning in Medical Ultrasound Analysis A Review Engineering 2019 [[paper]](https://www.sciencedirect.com/science/article/pii/S2095809918301887)
 ### Deep Learning in Cardiology 2019 [[paper]](https://arxiv.org/abs/1902.11122)
 ### Deep learning in Medical Imaging and Radiation Therapy MP 2019 [[paper]](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.13264)
 ### Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges JDI 2019 [[paper]](https://link.springer.com/article/10.1007/s10278-019-00227-x)
 ### Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation arXiv [[paper]](https://arxiv.org/abs/1908.10454)
 ### Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Technical Aspects and Introduction to State-of-Art Applications arXiv [[paper]](https://arxiv.org/abs/1911.02521)
+### Deep Neural Network Models for Computational Histopathology: A Survey 2019 [[paper]](https://arxiv.org/abs/1912.12378)
 
 ## Datasets
 ### Development of a Digital Image Database for Chest Radiographs with and without a Lung Nodule AJR 2000
