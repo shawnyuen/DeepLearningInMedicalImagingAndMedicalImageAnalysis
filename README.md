@@ -229,6 +229,9 @@
 
 ## 2019
 ### Learning to detect chest radiographs containing pulmonary lesions using visual attention networks MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304997)
+
+## 2020
+### Vertebra-Focused Landmark Detection for Scoliosis Assessment ISBI 2020 [[paper]](https://arxiv.org/abs/2001.03187)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Positron Emission Tomography (PET)
