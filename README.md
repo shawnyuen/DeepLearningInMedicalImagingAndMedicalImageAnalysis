@@ -65,6 +65,8 @@
 ### Robust Landmark Detection in Volumetric Data with Efficient 3D Deep Learning [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-42999-1_4)
 ### Robust Multi-scale Anatomical Landmark Detection in Incomplete 3D-CT Data [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-66182-7_23)
 ### Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans TPAMI 2017 [[paper]](https://ieeexplore.ieee.org/document/8187667/)
+### 3D Deeply Supervised Network for Automated Segmentation of Volumetric Medical Images MedIA 2017 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841517300725)
+"deep supervision mechanism"
 
 ## 2018
 ### DeepLung Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification [[paper]](https://arxiv.org/abs/1801.09555)
@@ -79,18 +81,26 @@
 "reinforcement learning", "anatomical landmark localization", "aortic valve". "left atrial appendage"
 ### Deeply Self-Supervising Edge-to-Contour Neural Network Applied to Liver Segmentation [[paper]](https://arxiv.org/abs/1808.00739)
 ### Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network CVPR 2018 [[paper]](https://arxiv.org/abs/1802.09655)
-### AnatomyNet: Deep 3D Squeeze-and-excitation U-Nets for fast and fully automated whole-volume anatomical segmentation [[paper]](https://arxiv.org/abs/1808.05238)
+### AnatomyNet Deep 3D Squeeze-and-excitation U-Nets for Fast and Fully Automated Whole-volume Anatomical Segmentation Medical Physics 2018 [[paper]](https://arxiv.org/abs/1808.05238)
 ### DeepEM Deep 3D ConvNets With EM For Weakly Supervised Pulmonary Nodule Detection MICCAI 2018 [[paper]](https://arxiv.org/abs/1805.05373)
 ### Computation of Total Kidney Volume from CT images in Autosomal Dominant Polycystic Kidney Disease using Multi-Task 3D Convolutional Neural Networks 2018 [[paper]](https://arxiv.org/abs/1809.02268)
 ### Btrfly Net: Vertebrae Labelling with Energy-based Adversarial Learning of Local Spine Prior [[paper]](https://arxiv.org/abs/1804.01307)
 ### Deep Learning Based Rib Centerline Extraction and Labeling [[paper]](https://arxiv.org/abs/1809.07082)
 ### Liver Lesion Detection from Weakly-Labeled Multi-phase CT Volumes with a Grouped Single Shot MultiBox Detector MICCAI 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_77)
-### CFUN: Combining Faster R-CNN and U-net Network for Efficient Whole Heart Segmentation 2018 [[paper]](https://arxiv.org/abs/1812.04914)
+### CFUN Combining Faster R-CNN and U-net Network for Efficient Whole Heart Segmentation 2018 [[paper]](https://arxiv.org/abs/1812.04914)
 ### Deep Lesion Graphs in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-Scale Lesion Database CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Yan_Deep_Lesion_Graphs_CVPR_2018_paper.html)
 ### 3D Deep Learning from CT Scans Predicts Tumor Invasiveness of Subcentimeter Pulmonary Adenocarcinomas CR 2018 [[paper]](http://cancerres.aacrjournals.org/content/78/24/6881.short)
+### (AH-Net) 3D Anisotropic Hybrid Network Transferring Convolutional Features from 2D Images to 3D Anisotropic Volumes MICCAI 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_94)
+"liver and liver tumor segmentation from a Computed Tomography volume", "lesion detection from a Digital Breast Tomosynthesis volume"
+### 3D U-JAPA-Net Mixture of Convolutional Networks for Abdominal Multi-organ CT Segmentation MICCAI 2018 [[paper]]()
+### A Multi-scale Pyramid of 3D Fully Convolutional Networks for Abdominal Multi-organ Segmentation MICCAI 2018 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-00937-3_48)
 
 ## 2019
 ### Efficient Multiple Organ Localization in CT Image using 3D Region Proposal Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8625393)
+### 3DFPN-HS2 3D Feature Pyramid Network Based High Sensitivity and Specificity Pulmonary Nodule Detection MICCAI 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_57)
+### Abdominal Multi-organ Segmentation with Organ-attention Networks and Statistical Fusion MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518302524)
+### A Recurrent CNN for Automatic Detection and Classification of Coronary Artery Plaque and Stenosis in Coronary CT Angiography IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8550784)
+### Attention Gated Networks Learning to Leverage Salient Regions in Medical Images MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841518306133)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
@@ -140,7 +150,8 @@
 ### Whole Heart and Great Vessel Segmentation with Context-aware of Generative Adversarial Networks 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-662-56537-7_89)
 ### An Unsupervised Learning Model for Deformable Medical Image Registration CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Balakrishnan_An_Unsupervised_Learning_CVPR_2018_paper.html)
 ### VoxelMorph: A Learning Framework for Deformable Medical Image Registration IEEE TMI 2018 [[paper]](https://arxiv.org/abs/1809.05231)
-### Direct delineation of myocardial infarction without contrast agents using a joint motion feature learning architecture MedIA 2018 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518306960)
+### Direct Delineation of Myocardial Infarction without Contrast Agents Using a Joint Motion Feature Learning Architecture MedIA 2018 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518306960)
+### Anatomically Constrained Neural Networks (ACNN) Application to Cardiac Image Enhancement and Segmentation IEEE TMI 2018 [[paper]](http://ieeexplore.ieee.org/document/8051114/)
 
 ## 2019
 ### Fully Automatic Left Atrium Segmentation From Late Gadolinium Enhanced Magnetic Resonance Imaging Using a Dual Fully Convolutional Neural Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8447517)
@@ -229,6 +240,7 @@
 
 ## 2019
 ### Learning to detect chest radiographs containing pulmonary lesions using visual attention networks MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304997)
+### Accurate Automated Cobb Angles Estimation Using Multi-view Extrapolation Net MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841519300775)
 
 ## 2020
 ### Vertebra-Focused Landmark Detection for Scoliosis Assessment ISBI 2020 [[paper]](https://arxiv.org/abs/2001.03187)
