@@ -101,6 +101,7 @@
 ### Abdominal Multi-organ Segmentation with Organ-attention Networks and Statistical Fusion MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518302524)
 ### A Recurrent CNN for Automatic Detection and Classification of Coronary Artery Plaque and Stenosis in Coronary CT Angiography IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8550784)
 ### Attention Gated Networks Learning to Leverage Salient Regions in Medical Images MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841518306133)
+### Coronary Artery Centerline Extraction in Cardiac CT Angiography Using a CNN-based Orientation Classifier MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518308491)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
