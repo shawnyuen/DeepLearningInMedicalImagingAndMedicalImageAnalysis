@@ -103,6 +103,10 @@
 ### Attention Gated Networks Learning to Leverage Salient Regions in Medical Images MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841518306133)
 ### Coronary Artery Centerline Extraction in Cardiac CT Angiography Using a CNN-based Orientation Classifier MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518308491)
 
+## 2020
+### Edge-Gated CNNs for Volumetric Semantic Segmentation of Medical Images arXiv 2020 [[paper]](https://arxiv.org/abs/2002.04207)
+"textures and edge information"
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
 ## 2016
@@ -156,6 +160,9 @@
 
 ## 2019
 ### Fully Automatic Left Atrium Segmentation From Late Gadolinium Enhanced Magnetic Resonance Imaging Using a Dual Fully Convolutional Neural Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8447517)
+
+## 2020
+### Knowledge Distillation for Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03688)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Ultrasound (US)
