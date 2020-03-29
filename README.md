@@ -194,7 +194,7 @@
 ### High Frame-rate Cardiac Ultrasound Imaging with Deep Learning MICCAI 2018 [[paper]](https://arxiv.org/abs/1808.07823)
 ### High Quality Ultrasonic Multi-line Transmission through Deep Learning MICCAI 2018 [[paper]](https://arxiv.org/abs/1808.07819)
 ### Deep Adversarial Context-Aware Landmark Detection for Ultrasound Imaging 2018 [[paper]](https://arxiv.org/abs/1805.10737)
-### Weakly Supervised Localisation for Fetal Ultrasound Images DLMIAW 2018 [[paper]](https://arxiv.org/abs/1808.00793)
+### Weakly Supervised Localisation for Fetal Ultrasound Images DLMIAW 2018 [[paper]](https://arxiv.org/abs/1808.00793) [[code]](https://github.com/ntoussaint/fetalnav)
 ### Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network 2018 [[paper]](https://arxiv.org/abs/1806.07486)
 ### Less is More Simultaneous View Classification and Landmark Detection for Abdominal Ultrasound Images 2018 [[paper]](https://arxiv.org/abs/1805.10376)
 ### Attention-Gated Networks for Improving Ultrasound Scan Plane Detection 2018 [[paper]](https://openreview.net/forum?id=BJtn7-3sM)
