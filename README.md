@@ -106,6 +106,7 @@
 ## 2020
 ### Edge-Gated CNNs for Volumetric Semantic Segmentation of Medical Images arXiv 2020 [[paper]](https://arxiv.org/abs/2002.04207)
 "textures and edge information"
+### TripletUNet Multi-Task U-Net with Online Voxel-Wise Learning for Precise CT Prostate Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.07462)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
@@ -280,6 +281,10 @@
 ## 2019
 ### CE-Net: Context Encoder Network for 2D Medical Image Segmentation IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8662594)
 
+## 2020
+### Convex Shape Prior for Deep Neural Convolution Network based Eye Fundus Images Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.07476)
+"IVUS images are similar to Eye Fundus Images."
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 #  Microscopy
 ## 2016
@@ -358,6 +363,10 @@
 ### Solo or Ensemble Choosing a CNN Architecture for Melanoma Classification CVPRW 2019 [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/ISIC/Perez_Solo_or_Ensemble_Choosing_a_CNN_Architecture_for_Melanoma_Classification_CVPRW_2019_paper.html)
 ### Deep Attention Model for the Hierarchical Diagnosis of Skin Lesions CVPRW 2019 [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/ISIC/Barata_Deep_Attention_Model_for_the_Hierarchical_Diagnosis_of_Skin_Lesions_CVPRW_2019_paper.html)
 ### Skin Lesion Classification Using Convolutional Neural Network with Novel Regularizer IEEE Access 2019 [[paper]](https://ieeexplore.ieee.org/document/8669763)
+
+## 2020
+### Semi-supervised Medical Image Classification with Relation-driven Self-ensembling Model IEEE TMI 2020 [[paper]](https://arxiv.org/abs/2005.07377)
+"The idea may be inspired by the paper titled 'Correlation Congruence for Knowledge Distillation ICCV 2019'. "
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Endoscopy
