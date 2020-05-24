@@ -356,13 +356,13 @@
 ### Skin Lesion Classification with Ensemble of Squeeze-and-excitation Networks and Semi-supervised Learning 2018 [[paper]](https://arxiv.org/abs/1809.02568)
 
 ## 2019
-### Melanoma Recognition via Visual Attention IPMI 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-20351-1_62)
-### Fully Convolutional Neural Networks to Detect Clinical Dermoscopic Features IEEE JBHI 2019 [[paper]](https://ieeexplore.ieee.org/document/8353143)
-### DermaKNet Incorporating the Knowledge of Dermatologists to Convolutional Neural Networks for Skin Lesion Diagnosis IEEE JBHI 2019 [[paper]](https://ieeexplore.ieee.org/document/8293766)
-### Towards Automated Melanoma Detection with Deep Learning Data Purification and Augmentation CVPRW 2019 [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/ISIC/Bisla_Towards_Automated_Melanoma_Detection_With_Deep_Learning_Data_Purification_and_CVPRW_2019_paper.html)
-### Solo or Ensemble Choosing a CNN Architecture for Melanoma Classification CVPRW 2019 [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/ISIC/Perez_Solo_or_Ensemble_Choosing_a_CNN_Architecture_for_Melanoma_Classification_CVPRW_2019_paper.html)
 ### Deep Attention Model for the Hierarchical Diagnosis of Skin Lesions CVPRW 2019 [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/ISIC/Barata_Deep_Attention_Model_for_the_Hierarchical_Diagnosis_of_Skin_Lesions_CVPRW_2019_paper.html)
+### DermaKNet Incorporating the Knowledge of Dermatologists to Convolutional Neural Networks for Skin Lesion Diagnosis IEEE JBHI 2019 [[paper]](https://ieeexplore.ieee.org/document/8293766)
+### Fully Convolutional Neural Networks to Detect Clinical Dermoscopic Features IEEE JBHI 2019 [[paper]](https://ieeexplore.ieee.org/document/8353143)
+### Melanoma Recognition via Visual Attention IPMI 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-20351-1_62)
 ### Skin Lesion Classification Using Convolutional Neural Network with Novel Regularizer IEEE Access 2019 [[paper]](https://ieeexplore.ieee.org/document/8669763)
+### Solo or Ensemble Choosing a CNN Architecture for Melanoma Classification CVPRW 2019 [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/ISIC/Perez_Solo_or_Ensemble_Choosing_a_CNN_Architecture_for_Melanoma_Classification_CVPRW_2019_paper.html)
+### Towards Automated Melanoma Detection with Deep Learning Data Purification and Augmentation CVPRW 2019 [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/ISIC/Bisla_Towards_Automated_Melanoma_Detection_With_Deep_Learning_Data_Purification_and_CVPRW_2019_paper.html)
 
 ## 2020
 ### Semi-supervised Medical Image Classification with Relation-driven Self-ensembling Model IEEE TMI 2020 [[paper]](https://arxiv.org/abs/2005.07377)
