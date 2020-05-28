@@ -367,6 +367,7 @@
 ## 2020
 ### Semi-supervised Medical Image Classification with Relation-driven Self-ensembling Model IEEE TMI 2020 [[paper]](https://arxiv.org/abs/2005.07377)
 "The idea may be inspired by the paper titled 'Correlation Congruence for Knowledge Distillation ICCV 2019'. "
+### A Mutual Bootstrapping Model for Automated Skin Lesion Segmentation and Classification IEEE TMI 2020 [[paper]](https://arxiv.org/abs/1903.03313)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Endoscopy
