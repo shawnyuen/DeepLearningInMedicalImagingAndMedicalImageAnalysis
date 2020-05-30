@@ -186,6 +186,8 @@
 ### Cascaded Fully Convolutional Networks for Automatic Prenatal Ultrasound Image Segmentation 2017 [[paper]](http://ieeexplore.ieee.org/document/7950607/)
 ### Ultrasound Standard Plane Detection Using a Composite Neural Network Framework 2017 [[paper]](http://ieeexplore.ieee.org/document/7890445/)
 ### CNN-based Estimation of Abdominal Circumference from Ultrasound Images 2017 [[paper]](https://arxiv.org/abs/1702.02741)
+### Ultrasound Image-based Thyroid Nodule Automatic Segmentation Using Convolutional Neural Networks IJCARS 2017 [[paper]]
+"thyroid"
 
 ## 2018
 ### A Radiomics Approach With CNN for Shear-Wave Elastography Breast Tumor Classification IEEE TBME 2018 [[paper]](https://ieeexplore.ieee.org/document/8372445/)
@@ -206,6 +208,8 @@
 
 ## 2019
 ### Tumor Detection in Automated Breast Ultrasound Using 3-D CNN and Prioritized Candidate Aggregation IEEE TMI 2018 [[paper]](Tumor Detection in Automated Breast Ultrasound Using 3-D CNN and Prioritized Candidate Aggregation)
+### Automated Detection and Classification of Thyroid Nodules in Ultrasound Images Using Clinical-knowledge-guided Convolutional Neural Networks MedIA 2019 [[paper]]()
+"thyroid"
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # X-ray
