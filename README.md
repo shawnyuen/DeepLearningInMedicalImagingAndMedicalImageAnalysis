@@ -170,6 +170,7 @@
 ### Knowledge Distillation for Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03688)
 ### (AsynDGAN) Synthetic Learning Learn From Distributed Asynchronized Discriminator GAN Without Sharing Medical Image Data CVPR 2020 [[paper]](https://arxiv.org/abs/2006.00080)
 "AsynDGAN is comprised of one central generator and multiple distributed discriminators located in different medical entities."
+### Cardiac Segmentation with Strong Anatomical Guarantees arXiv 2020 [[paper]](https://arxiv.org/abs/2006.08825)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Ultrasound (US)
