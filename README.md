@@ -97,14 +97,15 @@
 ### A Multi-scale Pyramid of 3D Fully Convolutional Networks for Abdominal Multi-organ Segmentation MICCAI 2018 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-00937-3_48)
 
 ## 2019
-### Efficient Multiple Organ Localization in CT Image using 3D Region Proposal Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8625393)
 ### 3DFPN-HS2 3D Feature Pyramid Network Based High Sensitivity and Specificity Pulmonary Nodule Detection MICCAI 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_57)
-### Abdominal Multi-organ Segmentation with Organ-attention Networks and Statistical Fusion MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518302524)
 ### A Recurrent CNN for Automatic Detection and Classification of Coronary Artery Plaque and Stenosis in Coronary CT Angiography IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8550784)
+### Abdominal Multi-organ Segmentation with Organ-attention Networks and Statistical Fusion MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518302524)
 ### Attention Gated Networks Learning to Leverage Salient Regions in Medical Images MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841518306133)
+### Automated Design of Deep Learning Methods for Biomedical Image Segmentation arXiv 2019 [[paper]](https://arxiv.org/abs/1904.08128)
 ### Coronary Artery Centerline Extraction in Cardiac CT Angiography Using a CNN-based Orientation Classifier MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518308491)
-### Deep Learning Algorithms for Coronary Artery Plaque Characterisation from CCTA Scans arXiv 2019 [[paper]](https://arxiv.org/abs/1912.06417)
 ### Coronary Artery Plaque Characterization from CCTA Scans using Deep Learning and Radiomics MICCAI 2019 [[paper]](https://arxiv.org/abs/1912.06075)
+### Deep Learning Algorithms for Coronary Artery Plaque Characterisation from CCTA Scans arXiv 2019 [[paper]](https://arxiv.org/abs/1912.06417)
+### Efficient Multiple Organ Localization in CT Image using 3D Region Proposal Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8625393)
 
 ## 2020
 ### Deep Learning Analysis of Coronary Arteries in Cardiac CT Angiography for Detection of Patients Requiring Invasive Coronary Angiography IEEE TMI 2020 [[paper]](https://ieeexplore.ieee.org/document/8896989)
@@ -291,6 +292,7 @@
 
 ## 2019
 ### CE-Net: Context Encoder Network for 2D Medical Image Segmentation IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8662594)
+### Deep Vessel Segmentation by Learning Graphical Connectivity MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841519300982) [[TF code]](https://github.com/syshin1014/VGN)
 
 ## 2020
 ### Convex Shape Prior for Deep Neural Convolution Network based Eye Fundus Images Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.07476)
