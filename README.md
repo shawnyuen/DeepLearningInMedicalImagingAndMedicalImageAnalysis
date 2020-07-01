@@ -101,7 +101,9 @@
 ### A Recurrent CNN for Automatic Detection and Classification of Coronary Artery Plaque and Stenosis in Coronary CT Angiography IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8550784)
 ### Abdominal Multi-organ Segmentation with Organ-attention Networks and Statistical Fusion MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518302524)
 ### Attention Gated Networks Learning to Leverage Salient Regions in Medical Images MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841518306133)
+### Automated Coronary Artery Atherosclerosis Detection and Weakly Supervised Localization on Coronary CT Angiography with a Deep 3-Dimensional Convolutional Neural Network arXiv 2019 [[paper]](https://arxiv.org/abs/1911.13219) [[CMIG paper]](https://www.sciencedirect.com/science/article/pii/S0895611120300240)
 ### Automated Design of Deep Learning Methods for Biomedical Image Segmentation arXiv 2019 [[paper]](https://arxiv.org/abs/1904.08128)
+### Combined Analysis of Coronary Arteries and the Left Ventricular Myocardium in Cardiac CT Angiography for Detection of Patients with Functionally Significant Stenosis arXiv 2019 [[paper]](https://arxiv.org/abs/1911.04940)
 ### Coronary Artery Centerline Extraction in Cardiac CT Angiography Using a CNN-based Orientation Classifier MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518308491)
 ### Coronary Artery Plaque Characterization from CCTA Scans using Deep Learning and Radiomics MICCAI 2019 [[paper]](https://arxiv.org/abs/1912.06075)
 ### Deep Learning Algorithms for Coronary Artery Plaque Characterisation from CCTA Scans arXiv 2019 [[paper]](https://arxiv.org/abs/1912.06417)
@@ -111,6 +113,7 @@
 ### Deep Learning Analysis of Coronary Arteries in Cardiac CT Angiography for Detection of Patients Requiring Invasive Coronary Angiography IEEE TMI 2020 [[paper]](https://ieeexplore.ieee.org/document/8896989)
 ### Edge-Gated CNNs for Volumetric Semantic Segmentation of Medical Images arXiv 2020 [[paper]](https://arxiv.org/abs/2002.04207)
 "textures and edge information"
+### SenseCare: A Research Platform for Medical Image Informatics and Interactive 3D Visualization arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07031)
 ### TripletUNet Multi-Task U-Net with Online Voxel-Wise Learning for Precise CT Prostate Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.07462)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
