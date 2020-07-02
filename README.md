@@ -95,6 +95,7 @@
 "liver and liver tumor segmentation from a Computed Tomography volume", "lesion detection from a Digital Breast Tomosynthesis volume"
 ### 3D U-JAPA-Net Mixture of Convolutional Networks for Abdominal Multi-organ CT Segmentation MICCAI 2018 [[paper]]()
 ### A Multi-scale Pyramid of 3D Fully Convolutional Networks for Abdominal Multi-organ Segmentation MICCAI 2018 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-00937-3_48)
+### Automated anatomical labeling of coronary arteries via bidirectional tree LSTMs IJCARS 2018 [[paper]](https://link.springer.com/article/10.1007/s11548-018-1884-6)
 
 ## 2019
 ### 3DFPN-HS2 3D Feature Pyramid Network Based High Sensitivity and Specificity Pulmonary Nodule Detection MICCAI 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_57)
@@ -107,9 +108,11 @@
 ### Coronary Artery Centerline Extraction in Cardiac CT Angiography Using a CNN-based Orientation Classifier MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518308491)
 ### Coronary Artery Plaque Characterization from CCTA Scans using Deep Learning and Radiomics MICCAI 2019 [[paper]](https://arxiv.org/abs/1912.06075)
 ### Deep Learning Algorithms for Coronary Artery Plaque Characterisation from CCTA Scans arXiv 2019 [[paper]](https://arxiv.org/abs/1912.06417)
+### Discriminative Coronary Artery Tracking via 3D CNN in Cardiac CT Angiography MICCAI 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_52)
 ### Efficient Multiple Organ Localization in CT Image using 3D Region Proposal Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8625393)
 
 ## 2020
+### CPR-GCN: Conditional Partial-Residual Graph Convolutional Network in Automated Anatomical Labeling of Coronary Arteries CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_CPR-GCN_Conditional_Partial-Residual_Graph_Convolutional_Network_in_Automated_Anatomical_Labeling_CVPR_2020_paper.html)
 ### Deep Learning Analysis of Coronary Arteries in Cardiac CT Angiography for Detection of Patients Requiring Invasive Coronary Angiography IEEE TMI 2020 [[paper]](https://ieeexplore.ieee.org/document/8896989)
 ### Edge-Gated CNNs for Volumetric Semantic Segmentation of Medical Images arXiv 2020 [[paper]](https://arxiv.org/abs/2002.04207)
 "textures and edge information"
