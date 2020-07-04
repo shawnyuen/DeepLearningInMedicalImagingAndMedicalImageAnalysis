@@ -174,10 +174,11 @@
 ### Fully Automatic Left Atrium Segmentation From Late Gadolinium Enhanced Magnetic Resonance Imaging Using a Dual Fully Convolutional Neural Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8447517)
 
 ## 2020
+### Cardiac Segmentation with Strong Anatomical Guarantees arXiv 2020 [[paper]](https://arxiv.org/abs/2006.08825)
 ### Knowledge Distillation for Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03688)
 ### (AsynDGAN) Synthetic Learning Learn From Distributed Asynchronized Discriminator GAN Without Sharing Medical Image Data CVPR 2020 [[paper]](https://arxiv.org/abs/2006.00080)
 "AsynDGAN is comprised of one central generator and multiple distributed discriminators located in different medical entities."
-### Cardiac Segmentation with Strong Anatomical Guarantees arXiv 2020 [[paper]](https://arxiv.org/abs/2006.08825)
+### Two-Stage Cascaded U-Net 1st Place Solution to BraTS Challenge 2019 Segmentation Task BrainLes 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-46640-4_22)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Ultrasound (US)
