@@ -225,6 +225,9 @@
 ### Automated Detection and Classification of Thyroid Nodules in Ultrasound Images Using Clinical-knowledge-guided Convolutional Neural Networks MedIA 2019 [[paper]]()
 "thyroid"
 
+## 2020
+### Privileged Modality Distillation for Vessel Border Detection in Intracoronary Imaging IEEE TMI 2020 [[paper]](https://ieeexplore.ieee.org/document/8896024)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 # X-ray
 ## 2015
