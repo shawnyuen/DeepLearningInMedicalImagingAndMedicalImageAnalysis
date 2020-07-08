@@ -73,7 +73,6 @@
 ### DeepLung Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification [[paper]](https://arxiv.org/abs/1801.09555)
 ### Deep LOGISMOS: Deep Learning Graph-based 3D Segmentation of Pancreatic Tumors on CT scans [[paper]](https://arxiv.org/abs/1801.08599)
 ### Attention U-Net Learning Where to Look for the Pancreas [[paper]](https://arxiv.org/abs/1804.03999)
-### Calcium Removal From Cardiac CT Images Using Deep Convolutional Neural Network [[paper]](https://arxiv.org/abs/1803.00399)
 ### 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network [[paper]](https://arxiv.org/abs/1802.05656)
 ### Deep Convolutional Framelet Denosing for Low-Dose CT via Wavelet Residual Network [[paper]](https://ieeexplore.ieee.org/document/8332971/)
 ### Structure-sensitive Multi-scale Deep Neural Network for Low-Dose CT Denoising [[paper]](https://arxiv.org/abs/1805.00587)
