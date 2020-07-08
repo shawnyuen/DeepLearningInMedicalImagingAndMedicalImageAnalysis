@@ -107,6 +107,7 @@
 ### Coronary Artery Centerline Extraction in Cardiac CT Angiography Using a CNN-based Orientation Classifier MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518308491)
 ### Coronary Artery Plaque Characterization from CCTA Scans using Deep Learning and Radiomics MICCAI 2019 [[paper]](https://arxiv.org/abs/1912.06075)
 ### Deep Learning Algorithms for Coronary Artery Plaque Characterisation from CCTA Scans arXiv 2019 [[paper]](https://arxiv.org/abs/1912.06417)
+### Direct Automatic Coronary Calcium Scoring in Cardiac and Chest CT IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8643342)
 ### Discriminative Coronary Artery Tracking via 3D CNN in Cardiac CT Angiography MICCAI 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_52)
 ### Efficient Multiple Organ Localization in CT Image using 3D Region Proposal Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8625393)
 
