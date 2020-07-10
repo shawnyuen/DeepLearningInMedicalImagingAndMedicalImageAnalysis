@@ -328,7 +328,8 @@
 ### Cancer Metastasis Detection With Neural Conditional Random Field MIDL 2018 [[paper]](https://arxiv.org/abs/1806.07064)
 ### DeepMitosis: Mitosis detection via deep detection, verification and segmentation networks MedIA 2018 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841517301834)
 
-## 2019 
+## 2019
+### Dual Adaptive Pyramid Network for Cross-Stain Histopathology Image Segmentation MICCAI 2019 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-32245-8_12) [[arXiv paper]](https://arxiv.org/abs/1909.11524)
 ### Weakly supervised mitosis detection in breast histopathology images using concentric loss MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841519300118)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
