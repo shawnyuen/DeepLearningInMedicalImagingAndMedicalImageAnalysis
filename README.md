@@ -123,6 +123,9 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
+## 2015
+### Deep Convolutional Encoder Networks for Multiple Sclerosis Lesion Segmentation MICCAI 2015 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_1)
+
 ## 2016
 ### Medical Image Synthesis with Context-aware Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05362)
 ### Multi-scale and Modality Dropout Learning for Intervertebral Disc Localization and Segmentation [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-55050-3_8)
