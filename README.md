@@ -179,6 +179,7 @@
 ### Fully Automatic Left Atrium Segmentation From Late Gadolinium Enhanced Magnetic Resonance Imaging Using a Dual Fully Convolutional Neural Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8447517)
 
 ## 2020
+### (CANet) CANet Context Aware Network for 3D Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2007.07788)
 ### Cardiac Segmentation with Strong Anatomical Guarantees arXiv 2020 [[paper]](https://arxiv.org/abs/2006.08825)
 ### Knowledge Distillation for Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03688)
 ### (AsynDGAN) Synthetic Learning Learn From Distributed Asynchronized Discriminator GAN Without Sharing Medical Image Data CVPR 2020 [[paper]](https://arxiv.org/abs/2006.00080)
