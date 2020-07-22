@@ -235,6 +235,7 @@
 
 ## 2020
 ### Privileged Modality Distillation for Vessel Border Detection in Intracoronary Imaging IEEE TMI 2020 [[paper]](https://ieeexplore.ieee.org/document/8896024)
+### Shape-aware Semi-supervised 3D Semantic Segmentation for Medical Images MICCAI 2020 [[paper]](https://arxiv.org/abs/2007.10732) [[code]](https://github.com/kleinzcy/SASSnet)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # X-ray
@@ -337,6 +338,9 @@
 ## 2019
 ### Dual Adaptive Pyramid Network for Cross-Stain Histopathology Image Segmentation MICCAI 2019 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-32245-8_12) [[arXiv paper]](https://arxiv.org/abs/1909.11524)
 ### Weakly supervised mitosis detection in breast histopathology images using concentric loss MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841519300118)
+
+## 2020
+### Deep Semi-supervised Knowledge Distillation for Overlapping Cervical Cell Instance Segmentation MICCAI 2020 [[paper]](https://arxiv.org/abs/2007.10787)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Colonoscopy
