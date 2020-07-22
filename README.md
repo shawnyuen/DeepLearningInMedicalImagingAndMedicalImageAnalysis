@@ -18,6 +18,7 @@
 ### Machine Learning Techniques for Biomedical Image Segmentation An Overview of Technical Aspects and Introduction to State-of-Art Applications arXiv 2019 [[paper]](https://arxiv.org/abs/1911.02521)
 ### Deep Neural Network Models for Computational Histopathology A Survey arXiv 2019 [[paper]](https://arxiv.org/abs/1912.12378)
 ### A Survey on Domain Knowledge Powered Deep Learning for Medical Image Analysis arXiv 2020 [[paper]]()
+### State-of-the-Art Deep Learning in Cardiovascular Image Analysis JACC 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1936878X19305753)
 
 ## Datasets
 ### Development of a Digital Image Database for Chest Radiographs with and without a Lung Nodule AJR 2000
@@ -68,6 +69,7 @@
 ### Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans TPAMI 2017 [[paper]](https://ieeexplore.ieee.org/document/8187667/)
 ### 3D Deeply Supervised Network for Automated Segmentation of Volumetric Medical Images MedIA 2017 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841517300725)
 "deep supervision mechanism"
+### Generative Adversarial Networks for Noise Reduction in Low-Dose CT IEEE TMI 2017 [[paper]](https://ieeexplore.ieee.org/document/7934380)
 
 ## 2018
 ### DeepLung Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification [[paper]](https://arxiv.org/abs/1801.09555)
