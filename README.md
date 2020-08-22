@@ -20,6 +20,8 @@
 ### A Survey on Domain Knowledge Powered Deep Learning for Medical Image Analysis arXiv 2020 [[paper]](https://arxiv.org/abs/2004.12150)
 ### State-of-the-Art Deep Learning in Cardiovascular Image Analysis JACC 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1936878X19305753)
 ### A Review of Deep Learning in Medical Imaging Image Traits Technology Trends Case Studies with Progress Highlights and Future Promises arXiv 2020 [[paper]](https://arxiv.org/abs/2008.09104)
+### Review of Artificial Intelligence Techniques in Imaging Data Acquisition Segmentation and Diagnosis for COVID-19 IEEE RBME 2020 [[paper]](https://ieeexplore.ieee.org/document/9069255)
+### Model-Based and Data-Driven Strategies in Medical Image Computing IEEE Proceedings 2020 [[paper]](https://ieeexplore.ieee.org/document/8867900) [[arXiv paper]](https://arxiv.org/abs/1909.10391)
 
 ## Datasets
 ### Development of a Digital Image Database for Chest Radiographs with and without a Lung Nodule AJR 2000
@@ -42,13 +44,14 @@
 ### 3D Deep Learning for Efficient and Robust Landmark Detection in Volumetric Data MICCAI 2015 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-24553-9_69)
 
 ## 2016
+### An Artificial Agent for Anatomical Landmark Detection in Medical Images MICCAI 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46726-9_27)
+"deep reinforcement learning", "anatomical landmark detection"
+### Automatic Liver and Lesion Segmentation in CT Using Cascaded Fully Convolutional Neural Networks and 3D Conditional Random Fields MICCAI 2016 [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_48)
+"CRF"
 ### Low-dose CT Denoising with Convolutional Neural Network [[paper]](https://arxiv.org/abs/1610.00321)
 ### Low-Dose CT via Deep Neural Network [[paper]](https://arxiv.org/abs/1609.08508)
 ### Pulmonary Nodule Detection in CT Images: False Positive Reduction Using Multi-View Convolutional Networks [[paper]](https://ieeexplore.ieee.org/document/7422783/)
-### Automatic Liver and Lesion Segmentation in CT Using Cascaded Fully Convolutional Neural Networks and 3D Conditional Random Fields MICCAI 2016 [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_48)
-"CRF"
-### An Artificial Agent for Anatomical Landmark Detection in Medical Images MICCAI 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46726-9_27)
-"deep reinforcement learning", "anatomical landmark detection"
+### Improving Computer-Aided Detection Using Convolutional Neural Networks and Random View Aggregation IEEE TMI 2016 [[paper]](https://ieeexplore.ieee.org/document/7279156)
 
 ## 2017
 ### Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[paper]](https://arxiv.org/abs/1708.00961)
@@ -115,12 +118,14 @@
 ### Efficient Multiple Organ Localization in CT Image using 3D Region Proposal Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8625393)
 
 ## 2020
-### CPR-GCN: Conditional Partial-Residual Graph Convolutional Network in Automated Anatomical Labeling of Coronary Arteries CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_CPR-GCN_Conditional_Partial-Residual_Graph_Convolutional_Network_in_Automated_Anatomical_Labeling_CVPR_2020_paper.html)
+### Bounding Maps for Universal Lesion Detection arXiv 2020 [[paper]](https://arxiv.org/abs/2007.09383)
+### CPR-GCN Conditional Partial-Residual Graph Convolutional Network in Automated Anatomical Labeling of Coronary Arteries CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_CPR-GCN_Conditional_Partial-Residual_Graph_Convolutional_Network_in_Automated_Anatomical_Labeling_CVPR_2020_paper.html)
 ### Deep Distance Transform for Tubular Structure Segmentation in CT Scans CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.html)
 ""
 ### Deep Learning Analysis of Coronary Arteries in Cardiac CT Angiography for Detection of Patients Requiring Invasive Coronary Angiography IEEE TMI 2020 [[paper]](https://ieeexplore.ieee.org/document/8896989)
 ### Edge-Gated CNNs for Volumetric Semantic Segmentation of Medical Images arXiv 2020 [[paper]](https://arxiv.org/abs/2002.04207)
 "textures and edge information"
+### One Click Lesion RECIST Measurement and Segmentation on CT Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2007.11087)
 ### SenseCare: A Research Platform for Medical Image Informatics and Interactive 3D Visualization arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07031)
 ### TripletUNet Multi-Task U-Net with Online Voxel-Wise Learning for Precise CT Prostate Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.07462)
 
@@ -130,7 +135,6 @@
 ### Deep Convolutional Encoder Networks for Multiple Sclerosis Lesion Segmentation MICCAI 2015 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_1)
 
 ## 2016
-### Medical Image Synthesis with Context-aware Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05362)
 ### Multi-scale and Modality Dropout Learning for Intervertebral Disc Localization and Segmentation [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-55050-3_8)
 ### Pancreas Segmentation in MRI Using Graph-Based Decision Fusion on Convolutional Neural Networks MICCAI 2016 [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_51)
 "CRF"
@@ -160,6 +164,7 @@
 "CRF"
 ### Boundary-Aware Fully Convolutional Network for Brain Tumor Segmentation MICCAI 2017 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-66185-8_49)
 "CRF"
+### Medical Image Synthesis with Context-aware Generative Adversarial Networks MICCAI 2017 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-66179-7_48) [[arXiv paper]](https://arxiv.org/abs/1612.05362)
 
 ## 2018
 ### Brain MRI Super Resolution Using 3D Deep Densely Connected Neural Networks [[paper]](https://arxiv.org/abs/1801.02728)
@@ -177,6 +182,8 @@
 ### VoxelMorph: A Learning Framework for Deformable Medical Image Registration IEEE TMI 2018 [[paper]](https://arxiv.org/abs/1809.05231)
 ### Direct Delineation of Myocardial Infarction without Contrast Agents Using a Joint Motion Feature Learning Architecture MedIA 2018 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518306960)
 ### Anatomically Constrained Neural Networks (ACNN) Application to Cardiac Image Enhancement and Segmentation IEEE TMI 2018 [[paper]](http://ieeexplore.ieee.org/document/8051114/)
+### Towards MR-Only Radiotherapy Treatment Planning: Synthetic CT Generation Using Multi-view Deep Convolutional Neural Networks MICCAI 2018 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-00928-1_33)
+### Unpaired Brain MR-to-CT Synthesis Using a Structure-Constrained CycleGAN DLMIA 2018 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-00889-5_20) [[arXiv paper]](https://arxiv.org/abs/1809.04536)
 
 ## 2019
 ### Fully Automatic Left Atrium Segmentation From Late Gadolinium Enhanced Magnetic Resonance Imaging Using a Dual Fully Convolutional Neural Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8447517)
@@ -192,7 +199,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Ultrasound (US)
 ## 2015
-### Automatic Fetal Ultrasound Standard Plane Detection Using Knowledge Transferred Recurrent Neural Networks [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-24553-9_62)
+### Automatic Fetal Ultrasound Standard Plane Detection Using Knowledge Transferred Recurrent Neural Networks MICCAI 2015 [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-24553-9_62)
+### Standard Plane Localization in Fetal Ultrasound via Domain Transferred Deep Neural Networks IEEE JBHI 2015 [[paper]](https://ieeexplore.ieee.org/document/7090943)
 
 ## 2016
 ### Stacked Deep Polynomial Network Based Representation Learning for Tumor Classification with Small Ultrasound Image Dataset [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231216002344)
@@ -211,6 +219,7 @@
 ### CNN-based Estimation of Abdominal Circumference from Ultrasound Images 2017 [[paper]](https://arxiv.org/abs/1702.02741)
 ### Ultrasound Image-based Thyroid Nodule Automatic Segmentation Using Convolutional Neural Networks IJCARS 2017 [[paper]]
 "thyroid"
+### SonoNet Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound IEEE TMI 2017 [[paper]](https://ieeexplore.ieee.org/document/7974824) [[arXiv paper]](https://arxiv.org/abs/1612.05601)
 
 ## 2018
 ### A Radiomics Approach With CNN for Shear-Wave Elastography Breast Tumor Classification IEEE TBME 2018 [[paper]](https://ieeexplore.ieee.org/document/8372445/)
@@ -220,12 +229,14 @@
 ### Cascaded Transforming Multi-task Networks For Abdominal Biometric Estimation from Ultrasound [[paepr]](https://openreview.net/forum?id=r1ZGQW2if)
 ### Deep Adversarial Context-Aware Landmark Detection for Ultrasound Imaging 2018 [[paper]](https://arxiv.org/abs/1805.10737)
 ### Fast Multiple Landmark Localisation Using a Patch-based Iterative Network MICCAI 2018 [[paper]](https://arxiv.org/abs/1806.06987) [[TF code]](https://github.com/yuanwei1989/landmark-detection)
+### Fully-automated Alignment of 3D Fetal Brain Ultrasound to a Canonical Reference Space Using Multi-task Learning MedIA 2018 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518300306)
 ### Fully Automatic Myocardial Segmentation of Contrast Echocardiography Sequence Using Random Forests Guided by Shape Model 2018 [[paper]](https://ieeexplore.ieee.org/document/8051098/)
 ### High Frame-rate Cardiac Ultrasound Imaging with Deep Learning MICCAI 2018 [[paper]](https://arxiv.org/abs/1808.07823)
 ### High Quality Ultrasonic Multi-line Transmission through Deep Learning MICCAI 2018 [[paper]](https://arxiv.org/abs/1808.07819)
 ### Human-level Performance On Automatic Head Biometrics In Fetal Ultrasound Using Fully Convolutional Neural Networks [[paper]](https://arxiv.org/abs/1804.09102)
 ### Identification of Metastatic Lymph Nodes in MR Imaging with Faster Region-Based Convolutional Neural Networks CR 2018 [[paper]](http://cancerres.aacrjournals.org/content/78/17/5135.short)
 ### Less is More Simultaneous View Classification and Landmark Detection for Abdominal Ultrasound Images 2018 [[paper]](https://arxiv.org/abs/1805.10376)
+### Multi-task SonoEyeNet Detection of Fetal Standardized Planes Assisted by Generated Sonographer Attention Maps MICCAI 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_98)
 ### Standard Plane Detection in 3D Fetal Ultrasound Using an Iterative Transformation Network 2018 [[paper]](https://arxiv.org/abs/1806.07486)
 ### Weakly Supervised Localisation for Fetal Ultrasound Images DLMIAW 2018 [[paper]](https://arxiv.org/abs/1808.00793)
 
@@ -237,7 +248,7 @@
 ## 2020
 ### Privileged Modality Distillation for Vessel Border Detection in Intracoronary Imaging IEEE TMI 2020 [[paper]](https://ieeexplore.ieee.org/document/8896024)
 ### Shape-aware Semi-supervised 3D Semantic Segmentation for Medical Images MICCAI 2020 [[paper]](https://arxiv.org/abs/2007.10732) [[code]](https://github.com/kleinzcy/SASSnet)
-### Self-Supervised Ultrasound to MRI Fetal Brain Image Synthesis IEEE TMI 2020 [[paper]](https://arxiv.org/abs/2008.08698)
+### Self-Supervised Ultrasound to MRI Fetal Brain Image Synthesis IEEE TMI 2020 [[paper]](https://arxiv.org/abs/2008.08698) [[code]](https://bitbucket.org/JianboJiao/ssus2mri/src)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # X-ray
@@ -306,10 +317,12 @@
 
 ## 2017
 ### Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1706.09318) [[Keras+TF code]](https://bitbucket.org/woalsdnd/v-gan)
+### Towards Adversarial Retinal Image Synthesis arXiv 2017 [[paper]](https://arxiv.org/abs/1701.08974) [[code]](https://github.com/costapt/vess2ret)
 
 ## 2018
-### Joint Segment-Level and Pixel-Wise Losses for Deep Learning Based Retinal Vessel Segmentation TBME 2018 [[paper]](https://ieeexplore.ieee.org/document/8341481/)
+### End-to-End Adversarial Retinal Image Synthesis IEEE TMI 2018 [[paper]](https://ieeexplore.ieee.org/document/8055572) [[code]](https://github.com/costapt/adversarial_retinal_synthesis)
 ### Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation TMI 2018 [[paper]](http://ieeexplore.ieee.org/document/8252743/)
+### Joint Segment-Level and Pixel-Wise Losses for Deep Learning Based Retinal Vessel Segmentation TBME 2018 [[paper]](https://ieeexplore.ieee.org/document/8341481/)
 
 ## 2019
 ### CE-Net: Context Encoder Network for 2D Medical Image Segmentation IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8662594)
@@ -323,7 +336,7 @@
 #  Microscopy
 ## 2016
 ### Stain Normalization Using Sparse AutoEncoders (StaNoSA) Application to Digital Pathology [[paper]](http://www.sciencedirect.com/science/article/pii/S0895611116300404)
-### Stacked Sparse Autoencoder (SSAE) for Nuclei Detection on Breast Cancer Histopathology Images [[paper]](http://ieeexplore.ieee.org/document/7163353/)
+### Stacked Sparse Autoencoder (SSAE) for Nuclei Detection on Breast Cancer Histopathology Images IEEE TMI 2016 [[paper]](http://ieeexplore.ieee.org/document/7163353/)
 
 ## 2017
 ### Adversarial Image Alignment and Interpolation [[paper]](https://arxiv.org/abs/1707.00067)
