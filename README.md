@@ -17,8 +17,9 @@
 ### Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation arXiv 2019 [[paper]](https://arxiv.org/abs/1908.10454)
 ### Machine Learning Techniques for Biomedical Image Segmentation An Overview of Technical Aspects and Introduction to State-of-Art Applications arXiv 2019 [[paper]](https://arxiv.org/abs/1911.02521)
 ### Deep Neural Network Models for Computational Histopathology A Survey arXiv 2019 [[paper]](https://arxiv.org/abs/1912.12378)
-### A Survey on Domain Knowledge Powered Deep Learning for Medical Image Analysis arXiv 2020 [[paper]]()
+### A Survey on Domain Knowledge Powered Deep Learning for Medical Image Analysis arXiv 2020 [[paper]](https://arxiv.org/abs/2004.12150)
 ### State-of-the-Art Deep Learning in Cardiovascular Image Analysis JACC 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1936878X19305753)
+### A Review of Deep Learning in Medical Imaging Image Traits Technology Trends Case Studies with Progress Highlights and Future Promises arXiv 2020 [[paper]](https://arxiv.org/abs/2008.09104)
 
 ## Datasets
 ### Development of a Digital Image Database for Chest Radiographs with and without a Lung Nodule AJR 2000
