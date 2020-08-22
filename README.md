@@ -237,6 +237,7 @@
 ## 2020
 ### Privileged Modality Distillation for Vessel Border Detection in Intracoronary Imaging IEEE TMI 2020 [[paper]](https://ieeexplore.ieee.org/document/8896024)
 ### Shape-aware Semi-supervised 3D Semantic Segmentation for Medical Images MICCAI 2020 [[paper]](https://arxiv.org/abs/2007.10732) [[code]](https://github.com/kleinzcy/SASSnet)
+### Self-Supervised Ultrasound to MRI Fetal Brain Image Synthesis IEEE TMI 2020 [[paper]](https://arxiv.org/abs/2008.08698)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # X-ray
