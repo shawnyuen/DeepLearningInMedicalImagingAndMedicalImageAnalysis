@@ -22,6 +22,9 @@
 ### A Review of Deep Learning in Medical Imaging Image Traits Technology Trends Case Studies with Progress Highlights and Future Promises arXiv 2020 [[paper]](https://arxiv.org/abs/2008.09104)
 ### Review of Artificial Intelligence Techniques in Imaging Data Acquisition Segmentation and Diagnosis for COVID-19 IEEE RBME 2020 [[paper]](https://ieeexplore.ieee.org/document/9069255)
 ### Model-Based and Data-Driven Strategies in Medical Image Computing IEEE Proceedings 2020 [[paper]](https://ieeexplore.ieee.org/document/8867900) [[arXiv paper]](https://arxiv.org/abs/1909.10391)
+### Deep Learning Based Brain Tumor Segmentation A Survey arXiv 2020 [[paper]](https://arxiv.org/abs/2007.09479)
+### A Review Deep Learning for Medical Image Segmentation Using Multi-modality Fusion arXiv 2020 [[paper]](https://arxiv.org/abs/2004.10664)
+### Medical Instrument Detection in Ultrasound-Guided Interventions A Review arXiv 2020 [[paper]](https://arxiv.org/abs/2007.04807)
 
 ## Datasets
 ### Development of a Digital Image Database for Chest Radiographs with and without a Lung Nodule AJR 2000
