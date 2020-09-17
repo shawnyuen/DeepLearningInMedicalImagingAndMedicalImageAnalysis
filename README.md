@@ -126,11 +126,13 @@
 ### Deep Distance Transform for Tubular Structure Segmentation in CT Scans CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.html)
 ""
 ### Deep Learning Analysis of Coronary Arteries in Cardiac CT Angiography for Detection of Patients Requiring Invasive Coronary Angiography IEEE TMI 2020 [[paper]](https://ieeexplore.ieee.org/document/8896989)
+### Deep Sinogram Completion with Image Prior for Metal Artifact Reduction in CT Images arXiv 2020 [[paper]](https://arxiv.org/abs/2009.07469)
 ### Edge-Gated CNNs for Volumetric Semantic Segmentation of Medical Images arXiv 2020 [[paper]](https://arxiv.org/abs/2002.04207)
 "textures and edge information"
 ### One Click Lesion RECIST Measurement and Segmentation on CT Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2007.11087)
 ### SenseCare: A Research Platform for Medical Image Informatics and Interactive 3D Visualization arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07031)
 ### TripletUNet Multi-Task U-Net with Online Voxel-Wise Learning for Precise CT Prostate Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.07462)
+### UXNet Searching Multi-level Feature Aggregation for 3D Medical Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2009.07501)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
