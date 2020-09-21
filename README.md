@@ -131,6 +131,7 @@
 "textures and edge information"
 ### One Click Lesion RECIST Measurement and Segmentation on CT Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2007.11087)
 ### SenseCare: A Research Platform for Medical Image Informatics and Interactive 3D Visualization arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07031)
+### TopNet Topology Preserving Metric Learning for Vessel Tree Reconstruction and Labelling MICCAI 2020 [[paper]](https://arxiv.org/abs/2009.08674)
 ### TripletUNet Multi-Task U-Net with Online Voxel-Wise Learning for Precise CT Prostate Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.07462)
 ### UXNet Searching Multi-level Feature Aggregation for 3D Medical Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2009.07501)
 
