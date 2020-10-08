@@ -120,6 +120,8 @@
 ### Direct Automatic Coronary Calcium Scoring in Cardiac and Chest CT IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8643342)
 ### Discriminative Coronary Artery Tracking via 3D CNN in Cardiac CT Angiography MICCAI 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_52)
 ### Efficient Multiple Organ Localization in CT Image using 3D Region Proposal Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8625393)
+### Motion Artifact Recognition and Quantification in Coronary CT Angiography Using Convolutional Neural Networks MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518308624)
+### Motion Estimation and Correction in Cardiac CT Angiography Images Using Convolutional Neural Networks CMIG 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0895611119300515)
 
 ## 2020
 ### Bounding Maps for Universal Lesion Detection arXiv 2020 [[paper]](https://arxiv.org/abs/2007.09383)
@@ -130,6 +132,7 @@
 ### Deep Sinogram Completion with Image Prior for Metal Artifact Reduction in CT Images arXiv 2020 [[paper]](https://arxiv.org/abs/2009.07469)
 ### Edge-Gated CNNs for Volumetric Semantic Segmentation of Medical Images arXiv 2020 [[paper]](https://arxiv.org/abs/2002.04207)
 "textures and edge information"
+### Learning Metal Artifact Reduction in Cardiac CT Images with Moving Pacemakers MedIA 2020 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841520300220)
 ### Multi-Resolution 3D Convolutional Neural Networks for Automatic Coronary Centerline Extraction in Cardiac CT Angiography Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2010.00925)
 "improvement of CNN-based Orientation Classifier (vessel tracker)"
 ### One Click Lesion RECIST Measurement and Segmentation on CT Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2007.11087)
@@ -302,11 +305,12 @@
 ### Improving the Segmentation of Anatomical Structures in Chest Radiographs using U-Net with an ImageNet Pre-trained Encoder RAMBO 2018 [[paper]](https://arxiv.org/abs/1810.02113)
 
 ## 2019
-### Learning to detect chest radiographs containing pulmonary lesions using visual attention networks MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304997)
 ### Accurate Automated Cobb Angles Estimation Using Multi-view Extrapolation Net MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841519300775)
+### Learning to Detect Chest Radiographs Containing Pulmonary Lesions Using Visual Attention Networks MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304997)
+### When Does Bone Suppression And Lung Field Segmentation Improve Chest X-Ray Disease Classification IEEE ISBI 2019 [[paper]](https://ieeexplore.ieee.org/document/8759510)
 
 ## 2020
-### Vertebra-Focused Landmark Detection for Scoliosis Assessment ISBI 2020 [[paper]](https://arxiv.org/abs/2001.03187)
+### Vertebra-Focused Landmark Detection for Scoliosis Assessment IEEE ISBI 2020 [[paper]](https://arxiv.org/abs/2001.03187)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Positron Emission Tomography (PET)
@@ -441,5 +445,7 @@
 ### 2017 Robotic Instrument Segmentation Challenge arXiv 2019 [[paper]](https://arxiv.org/abs/1902.06426)
 ### Endoscopy artifact detection (EAD 2019) challenge dataset arXiv 2019 [[paper]](https://arxiv.org/abs/1905.03209)
 ### A deep learning framework for quality assessment and restoration in video endoscopy arXiv 2019 [[paper]](https://arxiv.org/abs/1904.07073)
+
 ## 2020
+### Learning Motion Flows for Semi-supervised Instrument Segmentation from Robotic Surgical Video MICCAI 2020 [[paper]](https://arxiv.org/abs/2007.02501) [[code]](https://github.com/zxzhaoeric/Semi-InstruSeg)
 ### Multi-task recurrent convolutional network with correlation loss for surgical video analysis MedIA 2020 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841519301124)
