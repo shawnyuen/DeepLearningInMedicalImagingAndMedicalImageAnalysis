@@ -133,6 +133,7 @@
 ### Deep Sinogram Completion with Image Prior for Metal Artifact Reduction in CT Images arXiv 2020 [[paper]](https://arxiv.org/abs/2009.07469)
 ### Edge-Gated CNNs for Volumetric Semantic Segmentation of Medical Images arXiv 2020 [[paper]](https://arxiv.org/abs/2002.04207)
 "textures and edge information"
+### Graph Convolutional Network Based Point Cloud for Head and Neck Vessel Labeling MLMI 2020 [[paper]]()
 ### Learning Metal Artifact Reduction in Cardiac CT Images with Moving Pacemakers MedIA 2020 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841520300220)
 ### Multi-Resolution 3D Convolutional Neural Networks for Automatic Coronary Centerline Extraction in Cardiac CT Angiography Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2010.00925)
 "improvement of CNN-based Orientation Classifier (vessel tracker)"
