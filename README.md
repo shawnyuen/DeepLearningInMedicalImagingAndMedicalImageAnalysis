@@ -124,6 +124,7 @@
 ### Motion Estimation and Correction in Cardiac CT Angiography Images Using Convolutional Neural Networks CMIG 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0895611119300515)
 
 ## 2020
+### 3D Convolutional Sequence to Sequence Model for Vertebral Compression Fractures Identification in CT MICCAI 2020 [[paper]](https://arxiv.org/abs/2010.03739)
 ### Bounding Maps for Universal Lesion Detection arXiv 2020 [[paper]](https://arxiv.org/abs/2007.09383)
 ### CPR-GCN Conditional Partial-Residual Graph Convolutional Network in Automated Anatomical Labeling of Coronary Arteries CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_CPR-GCN_Conditional_Partial-Residual_Graph_Convolutional_Network_in_Automated_Anatomical_Labeling_CVPR_2020_paper.html)
 ### Deep Distance Transform for Tubular Structure Segmentation in CT Scans CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.html)
@@ -136,7 +137,8 @@
 ### Multi-Resolution 3D Convolutional Neural Networks for Automatic Coronary Centerline Extraction in Cardiac CT Angiography Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2010.00925)
 "improvement of CNN-based Orientation Classifier (vessel tracker)"
 ### One Click Lesion RECIST Measurement and Segmentation on CT Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2007.11087)
-### SenseCare: A Research Platform for Medical Image Informatics and Interactive 3D Visualization arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07031)
+### Rapid Vessel Segmentation and Reconstruction of Head and Neck Angiograms Using 3D Convolutional Neural Network NC 2020 [[paper]](https://www.nature.com/articles/s41467-020-18606-2)
+### SenseCare A Research Platform for Medical Image Informatics and Interactive 3D Visualization arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07031)
 ### TopNet Topology Preserving Metric Learning for Vessel Tree Reconstruction and Labelling MICCAI 2020 [[paper]](https://arxiv.org/abs/2009.08674)
 ### TripletUNet Multi-Task U-Net with Online Voxel-Wise Learning for Precise CT Prostate Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.07462)
 ### UXNet Searching Multi-level Feature Aggregation for 3D Medical Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2009.07501)
@@ -201,6 +203,7 @@
 ### Fully Automatic Left Atrium Segmentation From Late Gadolinium Enhanced Magnetic Resonance Imaging Using a Dual Fully Convolutional Neural Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8447517)
 
 ## 2020
+### Automated Intracranial Artery Labeling Using a Graph Neural Network and Hierarchical Refinement MICCAI 2020 [[paper]](https://arxiv.org/abs/2007.14472)
 ### (CANet) CANet Context Aware Network for 3D Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2007.07788)
 ### Cardiac Segmentation with Strong Anatomical Guarantees arXiv 2020 [[paper]](https://arxiv.org/abs/2006.08825)
 ### Knowledge Distillation for Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03688)
@@ -258,6 +261,7 @@
 "thyroid"
 
 ## 2020
+### Contrastive Rendering for Ultrasound Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2010.04928)
 ### Privileged Modality Distillation for Vessel Border Detection in Intracoronary Imaging IEEE TMI 2020 [[paper]](https://ieeexplore.ieee.org/document/8896024)
 ### Shape-aware Semi-supervised 3D Semantic Segmentation for Medical Images MICCAI 2020 [[paper]](https://arxiv.org/abs/2007.10732) [[code]](https://github.com/kleinzcy/SASSnet)
 ### Self-Supervised Ultrasound to MRI Fetal Brain Image Synthesis IEEE TMI 2020 [[paper]](https://arxiv.org/abs/2008.08698) [[code]](https://bitbucket.org/JianboJiao/ssus2mri/src)
