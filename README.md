@@ -41,6 +41,8 @@
 ### Skin Lesion Analysis Toward Melanoma Detection 2018 A Challenge Hosted by the International Skin Imaging Collaboration (ISIC) arXiv 2019
 ### ISIC 2017 - Skin Lesion Analysis Towards Melanoma Detection arXiv 2017 [[paper]](https://arxiv.org/abs/1703.00523)
 "ISIC2016", "ISIC2017", "ISIC2018", "ISIC2019"
+### VerSe A Vertebrae Labelling and Segmentation Benchmark arXiv 2020 [[paper]](https://arxiv.org/abs/2001.09193)
+"VerSe"
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Computed Tomography (CT)
@@ -133,6 +135,7 @@
 ### Deep Sinogram Completion with Image Prior for Metal Artifact Reduction in CT Images arXiv 2020 [[paper]](https://arxiv.org/abs/2009.07469)
 ### Edge-Gated CNNs for Volumetric Semantic Segmentation of Medical Images arXiv 2020 [[paper]](https://arxiv.org/abs/2002.04207)
 "textures and edge information"
+### Going to Extremes Weakly Supervised Medical Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2009.11988)
 ### Graph Convolutional Network Based Point Cloud for Head and Neck Vessel Labeling MLMI 2020 [[paper]]()
 ### Learning Metal Artifact Reduction in Cardiac CT Images with Moving Pacemakers MedIA 2020 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841520300220)
 ### Multi-Resolution 3D Convolutional Neural Networks for Automatic Coronary Centerline Extraction in Cardiac CT Angiography Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2010.00925)
@@ -205,8 +208,12 @@
 
 ## 2020
 ### Automated Intracranial Artery Labeling Using a Graph Neural Network and Hierarchical Refinement MICCAI 2020 [[paper]](https://arxiv.org/abs/2007.14472)
+### Brain Tumor Segmentation Using 3D-CNNs with Uncertainty Estimation arXiv 2020 [[paper]](https://arxiv.org/abs/2009.12188)
+### CA-Net Comprehensive Attention Convolutional Neural Networks for Explainable Medical Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2009.10549)
 ### (CANet) CANet Context Aware Network for 3D Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2007.07788)
 ### Cardiac Segmentation with Strong Anatomical Guarantees arXiv 2020 [[paper]](https://arxiv.org/abs/2006.08825)
+### CS2-Net Deep Learning Segmentation of Curvilinear Structures in Medical Imaging arXiv 2020 [[paper]](https://arxiv.org/abs/2010.07486)
+### Enhancing MRI Brain Tumor Segmentation with an Additional Classification Network arXiv 2020 [[paper]](https://arxiv.org/abs/2009.12111)
 ### Knowledge Distillation for Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03688)
 ### (AsynDGAN) Synthetic Learning Learn From Distributed Asynchronized Discriminator GAN Without Sharing Medical Image Data CVPR 2020 [[paper]](https://arxiv.org/abs/2006.00080)
 "AsynDGAN is comprised of one central generator and multiple distributed discriminators located in different medical entities."
@@ -263,6 +270,7 @@
 
 ## 2020
 ### Contrastive Rendering for Ultrasound Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2010.04928)
+### Image Quality Improvement of Hand-Held Ultrasound Devices With a Two-Stage Generative Adversarial Network IEEE TBME 2020 [[paper]](https://ieeexplore.ieee.org/document/8698332)
 ### Privileged Modality Distillation for Vessel Border Detection in Intracoronary Imaging IEEE TMI 2020 [[paper]](https://ieeexplore.ieee.org/document/8896024)
 ### Shape-aware Semi-supervised 3D Semantic Segmentation for Medical Images MICCAI 2020 [[paper]](https://arxiv.org/abs/2007.10732) [[code]](https://github.com/kleinzcy/SASSnet)
 ### Self-Supervised Ultrasound to MRI Fetal Brain Image Synthesis IEEE TMI 2020 [[paper]](https://arxiv.org/abs/2008.08698) [[code]](https://bitbucket.org/JianboJiao/ssus2mri/src)
@@ -370,6 +378,7 @@
 
 ## 2019
 ### Dual Adaptive Pyramid Network for Cross-Stain Histopathology Image Segmentation MICCAI 2019 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-32245-8_12) [[arXiv paper]](https://arxiv.org/abs/1909.11524)
+### HoVer-Net Simultaneous Segmentation and Classification of Nuclei in Multi-Tissue Histology Images MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841519301045)
 ### Weakly supervised mitosis detection in breast histopathology images using concentric loss MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841519300118)
 
 ## 2020
