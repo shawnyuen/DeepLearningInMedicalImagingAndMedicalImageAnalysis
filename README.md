@@ -43,6 +43,9 @@
 "ISIC2016", "ISIC2017", "ISIC2018", "ISIC2019"
 ### VerSe A Vertebrae Labelling and Segmentation Benchmark arXiv 2020 [[paper]](https://arxiv.org/abs/2001.09193)
 "VerSe"
+### A Dataset and a Technique for Generalized Nuclear Segmentation for Computational Pathology IEEE TMI 2017 [[paper]](https://ieeexplore.ieee.org/document/7872382)
+### A Multi-Organ Nucleus Segmentation Challenge IEEE TMI 2020 [[paper]]()
+"MoNuSeg"
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Computed Tomography (CT)
