@@ -144,6 +144,7 @@
 ### Multi-Resolution 3D Convolutional Neural Networks for Automatic Coronary Centerline Extraction in Cardiac CT Angiography Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2010.00925)
 "improvement of CNN-based Orientation Classifier (vessel tracker)"
 ### One Click Lesion RECIST Measurement and Segmentation on CT Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2007.11087)
+### PGL Prior-Guided Local Self-supervised Learning for 3D Medical Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.12640)
 ### Rapid Vessel Segmentation and Reconstruction of Head and Neck Angiograms Using 3D Convolutional Neural Network NC 2020 [[paper]](https://www.nature.com/articles/s41467-020-18606-2)
 ### SenseCare A Research Platform for Medical Image Informatics and Interactive 3D Visualization arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07031)
 ### TopNet Topology Preserving Metric Learning for Vessel Tree Reconstruction and Labelling MICCAI 2020 [[paper]](https://arxiv.org/abs/2009.08674)
