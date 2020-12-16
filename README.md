@@ -26,6 +26,7 @@
 ### A Review Deep Learning for Medical Image Segmentation Using Multi-modality Fusion arXiv 2020 [[paper]](https://arxiv.org/abs/2004.10664)
 ### Medical Instrument Detection in Ultrasound-Guided Interventions A Review arXiv 2020 [[paper]](https://arxiv.org/abs/2007.04807)
 ### A Review of Deep Learning in Medical Imaging Image Traits Technology Trends Case Studies with Progress Highlights and Future Promises arXiv 2020 [[paper]]()
+### Medical Image Segmentation Using Deep Learning A Survey arXiv 2020 [[paper]](https://arxiv.org/abs/2009.13120)
 
 ## Datasets
 ### Development of a Digital Image Database for Chest Radiographs with and without a Lung Nodule AJR 2000
