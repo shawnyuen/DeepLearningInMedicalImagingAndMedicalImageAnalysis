@@ -48,6 +48,8 @@
 ### A Dataset and a Technique for Generalized Nuclear Segmentation for Computational Pathology IEEE TMI 2017 [[paper]](https://ieeexplore.ieee.org/document/7872382)
 ### A Multi-Organ Nucleus Segmentation Challenge IEEE TMI 2020 [[paper]]()
 "MoNuSeg"
+### Deep Learning to Segment Pelvic Bones Large-scale CT Datasets and Baseline Models arXiv 2020 [[paper]]()
+"CTPelvic1K"
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Computed Tomography (CT)
