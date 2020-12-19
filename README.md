@@ -223,6 +223,7 @@
 ### CS2-Net Deep Learning Segmentation of Curvilinear Structures in Medical Imaging arXiv 2020 [[paper]](https://arxiv.org/abs/2010.07486)
 ### Enhancing MRI Brain Tumor Segmentation with an Additional Classification Network arXiv 2020 [[paper]](https://arxiv.org/abs/2009.12111)
 ### Knowledge Distillation for Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03688)
+### Modified U-Net (mU-Net) with Incorporation of Object-dependent High Level Features for Improved Liver and Liver-tumor Segmentation in CT Images IEEE TMI 2020 [[paper]]
 ### (AsynDGAN) Synthetic Learning Learn From Distributed Asynchronized Discriminator GAN Without Sharing Medical Image Data CVPR 2020 [[paper]](https://arxiv.org/abs/2006.00080)
 "AsynDGAN is comprised of one central generator and multiple distributed discriminators located in different medical entities."
 ### Two-Stage Cascaded U-Net 1st Place Solution to BraTS Challenge 2019 Segmentation Task BrainLes 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-46640-4_22)
