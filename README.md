@@ -146,8 +146,9 @@
 ### Graph Convolutional Network Based Point Cloud for Head and Neck Vessel Labeling MLMI 2020 [[paper]]()
 ### Learning Metal Artifact Reduction in Cardiac CT Images with Moving Pacemakers MedIA 2020 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841520300220)
 ### Modified U-Net (mU-Net) with Incorporation of Object-dependent High Level Features for Improved Liver and Liver-tumor Segmentation in CT Images IEEE TMI 2020 [[paper]]()
-### Multi-Resolution 3D Convolutional Neural Networks for Automatic Coronary Centerline Extraction in Cardiac CT Angiography Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2010.00925)
+### Multi-resolution 3D Convolutional Neural Networks for Automatic Coronary Centerline Extraction in Cardiac CT Angiography Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2010.00925)
 "improvement of CNN-based Orientation Classifier (vessel tracker)"
+### Multi-view Spatial Aggregation Framework for Joint Localization and Segmentation of Organs at Risk in Head and Neck CT Images IEEE TMI 2020 [[paper]]()
 ### One Click Lesion RECIST Measurement and Segmentation on CT Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2007.11087)
 ### PGL Prior-Guided Local Self-supervised Learning for 3D Medical Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.12640)
 ### Rapid Vessel Segmentation and Reconstruction of Head and Neck Angiograms Using 3D Convolutional Neural Network NC 2020 [[paper]](https://www.nature.com/articles/s41467-020-18606-2)
@@ -225,9 +226,12 @@
 ### Enhancing MRI Brain Tumor Segmentation with an Additional Classification Network arXiv 2020 [[paper]](https://arxiv.org/abs/2009.12111)
 ### Knowledge Distillation for Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03688)
 ### MS-Net Multi-site Network for Improving Prostate Segmentation with Heterogeneous MRI Data IEEE TMI 2020 [[paper]]()
+### Optimization for Medical Image Segmentation Theory and Practice When Evaluating with Dice Score or Jaccard Index IEEE TMI 2020 [[paper]]()
 ### (AsynDGAN) Synthetic Learning Learn From Distributed Asynchronized Discriminator GAN Without Sharing Medical Image Data CVPR 2020 [[paper]](https://arxiv.org/abs/2006.00080)
 "AsynDGAN is comprised of one central generator and multiple distributed discriminators located in different medical entities."
 ### Two-Stage Cascaded U-Net 1st Place Solution to BraTS Challenge 2019 Segmentation Task BrainLes 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-46640-4_22)
+### UNet++ Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation IEEE TMI 2020 [[paper]]()
+### ψ-Net Stacking Densely Convolutional LSTMs for Sub-cortical Brain Structure Segmentation IEEE TMI 2020 [[paper]]()
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Ultrasound (US)
@@ -396,6 +400,9 @@
 
 ## 2020
 ### Deep Semi-supervised Knowledge Distillation for Overlapping Cervical Cell Instance Segmentation MICCAI 2020 [[paper]](https://arxiv.org/abs/2007.10787)
+### MultiStar Instance Segmentation of Overlapping Objects with Star-convex Polygons arXiv 2020 [[paper]]()
+### Nucleus Segmentation Across Imaging Experiments the 2018 Data Science Bowl NM 2020 [[paper]]()
+### Red Blood Cell Segmentation with Overlapping Cell Separation and Classification on Imbalanced Dataset arXiv 2020 [[paper]]()
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Colonoscopy
