@@ -331,7 +331,9 @@
 ### When Does Bone Suppression And Lung Field Segmentation Improve Chest X-Ray Disease Classification IEEE ISBI 2019 [[paper]](https://ieeexplore.ieee.org/document/8759510)
 
 ## 2020
-### Vertebra-Focused Landmark Detection for Scoliosis Assessment IEEE ISBI 2020 [[paper]](https://arxiv.org/abs/2001.03187)
+### High-resolution Chest X-ray Bone Suppression Using Unpaired CT Structural Priors IEEE TMI 2020 [[paper]]
+### Vertebra-focused Landmark Detection for Scoliosis Assessment IEEE ISBI 2020 [[paper]](https://arxiv.org/abs/2001.03187)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Positron Emission Tomography (PET)
