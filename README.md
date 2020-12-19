@@ -332,6 +332,7 @@
 
 ## 2020
 ### High-resolution Chest X-ray Bone Suppression Using Unpaired CT Structural Priors IEEE TMI 2020 [[paper]]
+### Image-to-Images Translation for Multi-task Organ Segmentation and Bone Suppression in Chest X-ray Radiography IEEE TMI 2020 [[paper]]
 ### Vertebra-focused Landmark Detection for Scoliosis Assessment IEEE ISBI 2020 [[paper]](https://arxiv.org/abs/2001.03187)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
