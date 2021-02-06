@@ -157,6 +157,9 @@
 ### TripletUNet Multi-Task U-Net with Online Voxel-Wise Learning for Precise CT Prostate Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2005.07462)
 ### UXNet Searching Multi-level Feature Aggregation for 3D Medical Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2009.07501)
 
+## 2021
+### Automatic Segmentation of Organs-at-Risk from Head-and-Neck CT using Separable Convolutional Neural Network with Hard-Region-Weighted Loss arXiv 2021 [[paper]](https://arxiv.org/abs/2102.01897)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
 ## 2015
