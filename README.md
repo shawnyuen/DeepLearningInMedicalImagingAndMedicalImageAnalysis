@@ -159,6 +159,7 @@
 
 ## 2021
 ### Automatic Segmentation of Organs-at-Risk from Head-and-Neck CT using Separable Convolutional Neural Network with Hard-Region-Weighted Loss arXiv 2021 [[paper]](https://arxiv.org/abs/2102.01897)
+### CoTr Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2103.03024)
 ### Tooth Instance Segmentation from Cone-Beam CT Images through Point-based Detection and Gaussian Disentanglement arXiv 2021 [[paper]](https://arxiv.org/abs/2102.01315)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
