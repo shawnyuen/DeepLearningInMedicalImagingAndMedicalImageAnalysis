@@ -239,6 +239,9 @@
 ### UNet++ Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation IEEE TMI 2020 [[paper]]()
 ### ψ-Net Stacking Densely Convolutional LSTMs for Sub-cortical Brain Structure Segmentation IEEE TMI 2020 [[paper]]()
 
+## 2021
+### TransBTS Multimodal Brain Tumor Segmentation Using Transformer arXiv 2021 [[paper]](https://arxiv.org/abs/2103.04430) [[PyTorch code]](https://github.com/Wenxuan-1119/TransBTS)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Ultrasound (US)
 ## 2015
