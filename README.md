@@ -229,6 +229,7 @@
 ### (CANet) CANet Context Aware Network for 3D Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2007.07788)
 ### Cardiac Segmentation with Strong Anatomical Guarantees arXiv 2020 [[paper]](https://arxiv.org/abs/2006.08825)
 ### CS2-Net Deep Learning Segmentation of Curvilinear Structures in Medical Imaging arXiv 2020 [[paper]](https://arxiv.org/abs/2010.07486)
+### Convolutional neural networks for classification of Alzheimer's disease: Overview and reproducible evaluation [[paper]](https://arxiv.org/abs/1904.07773) [[code]](https://github.com/aramis-lab/AD-DL)
 ### Enhancing MRI Brain Tumor Segmentation with an Additional Classification Network arXiv 2020 [[paper]](https://arxiv.org/abs/2009.12111)
 ### Knowledge Distillation for Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03688)
 ### MS-Net Multi-site Network for Improving Prostate Segmentation with Heterogeneous MRI Data IEEE TMI 2020 [[paper]]()
