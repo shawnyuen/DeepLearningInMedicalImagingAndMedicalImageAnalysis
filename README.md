@@ -350,6 +350,9 @@
 ### Image-to-Images Translation for Multi-task Organ Segmentation and Bone Suppression in Chest X-ray Radiography IEEE TMI 2020 [[paper]]
 ### Vertebra-focused Landmark Detection for Scoliosis Assessment IEEE ISBI 2020 [[paper]](https://arxiv.org/abs/2001.03187)
 
+## 2021
+### Automated Deep Learning Analysis of Angiography Video Sequences for Coronary Artery Disease arXiv 2021
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Positron Emission Tomography (PET)
