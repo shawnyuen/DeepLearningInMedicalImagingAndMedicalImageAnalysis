@@ -153,6 +153,7 @@
 ### Multi-view Spatial Aggregation Framework for Joint Localization and Segmentation of Organs at Risk in Head and Neck CT Images IEEE TMI 2020 [[paper]]()
 ### One Click Lesion RECIST Measurement and Segmentation on CT Scans arXiv 2020 [[paper]](https://arxiv.org/abs/2007.11087)
 ### PGL Prior-Guided Local Self-supervised Learning for 3D Medical Image Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.12640)
+### RA-UNet A Hybrid Deep Attention-Aware Network to Extract Liver and Tumor in CT Scans 2020
 ### Rapid Vessel Segmentation and Reconstruction of Head and Neck Angiograms Using 3D Convolutional Neural Network NC 2020 [[paper]](https://www.nature.com/articles/s41467-020-18606-2)
 ### SenseCare A Research Platform for Medical Image Informatics and Interactive 3D Visualization arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07031)
 ### TopNet Topology Preserving Metric Learning for Vessel Tree Reconstruction and Labelling MICCAI 2020 [[paper]](https://arxiv.org/abs/2009.08674)
@@ -162,6 +163,7 @@
 ## 2021
 ### Automatic Segmentation of Organs-at-Risk from Head-and-Neck CT using Separable Convolutional Neural Network with Hard-Region-Weighted Loss arXiv 2021 [[paper]](https://arxiv.org/abs/2102.01897)
 ### CoTr Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2103.03024)
+### Swin-Unet Unet-like Pure Transformer for Medical Image Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2105.05537)
 ### Tooth Instance Segmentation from Cone-Beam CT Images through Point-based Detection and Gaussian Disentanglement arXiv 2021 [[paper]](https://arxiv.org/abs/2102.01315)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
