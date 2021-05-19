@@ -360,12 +360,15 @@
 
 # Positron Emission Tomography (PET)
 ## 2017
-### Virtual PET Images from CT Data Using Deep Convolutional Networks Initial Results [[paper]](https://arxiv.org/abs/1707.09585)
-### Combo Loss Handling Input and Output Imbalance in Multi-Organ Segmentation Arxiv 2018 [[paper]](https://arxiv.org/abs/1805.02798)
+### Combo Loss Handling Input and Output Imbalance in Multi-Organ Segmentation arXiv 2018 [[paper]](https://arxiv.org/abs/1805.02798)
+### Virtual PET Images from CT Data Using Deep Convolutional Networks Initial Results arXiv 2017 [[paper]](https://arxiv.org/abs/1707.09585)
 
 ## 2018
 ### Iterative PET Image Reconstruction Using Convolutional Neural Network Representation IEEE TMI 2018 [[paper]](https://ieeexplore.ieee.org/document/8463596)
 ### PET Image Reconstruction Using Deep Image Prior IEEE TMI 2018 [[paper]](https://ieeexplore.ieee.org/document/8581448)
+
+## 2019
+### Cross-modality Synthesis from CT to PET Using FCN and GAN Networks for Improved Automated Lesion Detection ENGAPPAI 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0952197618302513)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Funduscopy
