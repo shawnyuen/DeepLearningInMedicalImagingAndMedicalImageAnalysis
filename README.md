@@ -137,6 +137,7 @@
 ### 3D Convolutional Sequence to Sequence Model for Vertebral Compression Fractures Identification in CT MICCAI 2020 [[paper]](https://arxiv.org/abs/2010.03739)
 ### Bounding Maps for Universal Lesion Detection arXiv 2020 [[paper]](https://arxiv.org/abs/2007.09383)
 ### C2FNAS Coarse-to-Fine Neural Architecture Search for 3D Medical Image Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/1912.09628)
+### Context-Aware Refinement Network Incorporating Structural Connectivity Prior for Brain Midline Delineation MICCAI 2020 [[paper]](https://arxiv.org/abs/2007.05393) [[code]](https://github.com/ShawnBIT/Brain-Midline-Detection)
 ### CPR-GCN Conditional Partial-Residual Graph Convolutional Network in Automated Anatomical Labeling of Coronary Arteries CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_CPR-GCN_Conditional_Partial-Residual_Graph_Convolutional_Network_in_Automated_Anatomical_Labeling_CVPR_2020_paper.html)
 ### Deep Distance Transform for Tubular Structure Segmentation in CT Scans CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.html)
 ""
