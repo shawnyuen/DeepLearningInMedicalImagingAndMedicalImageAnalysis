@@ -90,6 +90,7 @@
 ### Generative Adversarial Networks for Noise Reduction in Low-Dose CT IEEE TMI 2017 [[paper]](https://ieeexplore.ieee.org/document/7934380)
 
 ## 2018
+### A Two-stage 3D Unet Framework for Multi-class Segmentation on Full Resolution Image arXiv 2018[[paper]](https://arxiv.org/abs/1804.04341)
 ### DeepLung Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification [[paper]](https://arxiv.org/abs/1801.09555)
 ### Deep LOGISMOS: Deep Learning Graph-based 3D Segmentation of Pancreatic Tumors on CT scans [[paper]](https://arxiv.org/abs/1801.08599)
 ### Attention U-Net Learning Where to Look for the Pancreas [[paper]](https://arxiv.org/abs/1804.03999)
