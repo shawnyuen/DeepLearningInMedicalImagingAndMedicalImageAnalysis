@@ -225,6 +225,7 @@
 ### Unpaired Brain MR-to-CT Synthesis Using a Structure-Constrained CycleGAN DLMIA 2018 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-00889-5_20) [[arXiv paper]](https://arxiv.org/abs/1809.04536)
 
 ## 2019
+### Deep Morphological Simplification Network MS-Net for Guided Registration of Brain Magnetic Resonance Images arXiv 2019 [[paper]]()
 ### Fully Automatic Left Atrium Segmentation From Late Gadolinium Enhanced Magnetic Resonance Imaging Using a Dual Fully Convolutional Neural Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8447517)
 
 ## 2020
