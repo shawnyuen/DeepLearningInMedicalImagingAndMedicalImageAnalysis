@@ -170,6 +170,9 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
+## 2022
+### (RefSeg) Online Reflective Learning for Robust Medical Image Segmentation MICCAI 2022 [[paper]](https://arxiv.org/abs/2207.00476)
+
 ## 2015
 ### Deep Convolutional Encoder Networks for Multiple Sclerosis Lesion Segmentation MICCAI 2015 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_1)
 
