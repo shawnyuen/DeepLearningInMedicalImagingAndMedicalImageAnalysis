@@ -54,6 +54,9 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Computed Tomography (CT)
+## 2022
+### Learning Topological Interactions for Multi-Class Medical Image Segmentation ECCV Oral 2022 [[paper]](https://arxiv.org/abs/2207.09654) [[code]](https://github.com/TopoXLab/TopoInteraction)
+
 ## 2015
 ### 3D Deep Learning for Efficient and Robust Landmark Detection in Volumetric Data MICCAI 2015 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-24553-9_69)
 
