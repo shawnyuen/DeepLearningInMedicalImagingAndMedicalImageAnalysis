@@ -29,6 +29,8 @@
 ### Medical Image Segmentation Using Deep Learning A Survey arXiv 2020 [[paper]](https://arxiv.org/abs/2009.13120)
 ### Learning-based Algorithms for Vessel Tracking A Review arXiv 2020 [[paper]]()
 ### Deep Learning for Chest X-ray Analysis A Survey arXiv 2021 [[paper]](https://arxiv.org/abs/2103.08700)
+### Multi-Modality Cardiac Image Computing A Survey arXiv 2022 [[paper]]()
+### Nuclei & Glands Instance Segmentation in Histology Images A Narrative Review arXiv 2022 [[paper]]()
 
 ## Datasets
 ### Development of a Digital Image Database for Chest Radiographs with and without a Lung Nodule AJR 2000
@@ -171,6 +173,11 @@
 ### Swin-Unet Unet-like Pure Transformer for Medical Image Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2105.05537)
 ### Tooth Instance Segmentation from Cone-Beam CT Images through Point-based Detection and Gaussian Disentanglement arXiv 2021 [[paper]](https://arxiv.org/abs/2102.01315)
 
+## 2022
+### Accurate and Robust Lesion RECIST Diameter Prediction and Segmentation with Transformers arXiv 2022 [[paper]]()
+### Boundary-Aware Network for Abdominal Multi-Organ Segmentation arXiv 2022 [[paper]]()
+### Boundary-Aware Network for Kidney Parsing arXiv 2022 [[paper]]()
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Magnetic Resonance Imaging (MRI)
 ## 2022
@@ -231,7 +238,7 @@
 ### Unpaired Brain MR-to-CT Synthesis Using a Structure-Constrained CycleGAN DLMIA 2018 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-00889-5_20) [[arXiv paper]](https://arxiv.org/abs/1809.04536)
 
 ## 2019
-### Deep Morphological Simplification Network MS-Net for Guided Registration of Brain Magnetic Resonance Images arXiv 2019 [[paper]]()
+### A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation MICCAI 2019 [[paper]](https://arxiv.org/abs/1906.06148) [[code]](https://github.com/RobinBruegger/PartiallyReversibleUnet)
 ### Fully Automatic Left Atrium Segmentation From Late Gadolinium Enhanced Magnetic Resonance Imaging Using a Dual Fully Convolutional Neural Network IEEE TMI 2019 [[paper]](https://ieeexplore.ieee.org/document/8447517)
 
 ## 2020
@@ -241,6 +248,7 @@
 ### (CANet) CANet Context Aware Network for 3D Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2007.07788)
 ### Cardiac Segmentation with Strong Anatomical Guarantees arXiv 2020 [[paper]](https://arxiv.org/abs/2006.08825)
 ### CS2-Net Deep Learning Segmentation of Curvilinear Structures in Medical Imaging arXiv 2020 [[paper]](https://arxiv.org/abs/2010.07486)
+### Deep Morphological Simplification Network MS-Net for Guided Registration of Brain Magnetic Resonance Images PR 2019 [[paper]](https://www.sciencedirect.com/science/article/pii/S0031320319304716) [[paper]](https://arxiv.org/abs/1902.02342)
 ### Enhancing MRI Brain Tumor Segmentation with an Additional Classification Network arXiv 2020 [[paper]](https://arxiv.org/abs/2009.12111)
 ### Knowledge Distillation for Brain Tumor Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03688)
 ### MS-Net Multi-site Network for Improving Prostate Segmentation with Heterogeneous MRI Data IEEE TMI 2020 [[paper]]()
@@ -253,6 +261,9 @@
 
 ## 2021
 ### TransBTS Multimodal Brain Tumor Segmentation Using Transformer arXiv 2021 [[paper]](https://arxiv.org/abs/2103.04430) [[PyTorch code]](https://github.com/Wenxuan-1119/TransBTS)
+
+## 2022
+### Label Propagation for 3D Carotid Vessel Wall Segmentation and Atherosclerosis Diagnosis arXiv 2022 [[paper]]()
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Ultrasound (US)
@@ -358,12 +369,13 @@
 ### When Does Bone Suppression And Lung Field Segmentation Improve Chest X-Ray Disease Classification IEEE ISBI 2019 [[paper]](https://ieeexplore.ieee.org/document/8759510)
 
 ## 2020
-### High-resolution Chest X-ray Bone Suppression Using Unpaired CT Structural Priors IEEE TMI 2020 [[paper]]
-### Image-to-Images Translation for Multi-task Organ Segmentation and Bone Suppression in Chest X-ray Radiography IEEE TMI 2020 [[paper]]
+### High-resolution Chest X-ray Bone Suppression Using Unpaired CT Structural Priors IEEE TMI 2020 [[paper]]()
+### Image-to-Images Translation for Multi-task Organ Segmentation and Bone Suppression in Chest X-ray Radiography IEEE TMI 2020 [[paper]]()
 ### Vertebra-focused Landmark Detection for Scoliosis Assessment IEEE ISBI 2020 [[paper]](https://arxiv.org/abs/2001.03187)
 
 ## 2021
-### Automated Deep Learning Analysis of Angiography Video Sequences for Coronary Artery Disease arXiv 2021
+### Automated Deep Learning Analysis of Angiography Video Sequences for Coronary Artery Disease arXiv 2021 [[paper]]()
+### Seg4Reg+ Consistency Learning between Spine Segmentation and Cobb Angle Regression MICCAI 2021 [[paper]]()
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -430,6 +442,10 @@
 ### MultiStar Instance Segmentation of Overlapping Objects with Star-convex Polygons arXiv 2020 [[paper]]()
 ### Nucleus Segmentation Across Imaging Experiments the 2018 Data Science Bowl NM 2020 [[paper]]()
 ### Red Blood Cell Segmentation with Overlapping Cell Separation and Classification on Imbalanced Dataset arXiv 2020 [[paper]]()
+
+## 2022
+### Online Easy Example Mining for Weakly-supervised Gland Segmentation from Histology Images MICCAI 2022 [[paper]]()
+### Region-guided CycleGANs for Stain Transfer in Whole Slide Images arXiv 2022 [[paper]]()
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Colonoscopy
