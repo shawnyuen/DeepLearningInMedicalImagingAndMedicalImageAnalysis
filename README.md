@@ -14,7 +14,7 @@
 ### Deep Learning in Cardiology arXiv 2019 [[paper]](https://arxiv.org/abs/1902.11122)
 ### Deep learning in Medical Imaging and Radiation Therapy MP 2019 [[paper]](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.13264)
 ### Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges JDI 2019 [[paper]](https://link.springer.com/article/10.1007/s10278-019-00227-x)
-### Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation arXiv 2019 [[paper]](https://arxiv.org/abs/1908.10454)
+### Embracing Imperfect Datasets A Review of Deep Learning Solutions for Medical Image Segmentation MedIA 2020 [[arXiv paper]](https://arxiv.org/abs/1908.10454) [[MedIA paper]](https://www.sciencedirect.com/science/article/abs/pii/S136184152030058X)
 ### Machine Learning Techniques for Biomedical Image Segmentation An Overview of Technical Aspects and Introduction to State-of-Art Applications arXiv 2019 [[paper]](https://arxiv.org/abs/1911.02521)
 ### Deep Neural Network Models for Computational Histopathology A Survey arXiv 2019 [[paper]](https://arxiv.org/abs/1912.12378)
 ### A Survey on Domain Knowledge Powered Deep Learning for Medical Image Analysis arXiv 2020 [[paper]](https://arxiv.org/abs/2004.12150)
