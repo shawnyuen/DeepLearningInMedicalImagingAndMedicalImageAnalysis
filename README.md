@@ -29,6 +29,7 @@
 ### Medical Image Segmentation Using Deep Learning A Survey arXiv 2020 [[paper]](https://arxiv.org/abs/2009.13120)
 ### Learning-based Algorithms for Vessel Tracking A Review arXiv 2020 [[paper]]()
 ### Deep Learning for Cardiac Image Segmentation A Review FCVM 2020 [[paper]](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full)
+### Artificial Intelligence and Machine Learning in Arrhythmias and Cardiac Electrophysiology Circulation 2020 [[paper]](https://www.ahajournals.org/doi/full/10.1161/CIRCEP.119.007952)
 ### Deep Learning for Chest X-ray Analysis A Survey arXiv 2021 [[paper]](https://arxiv.org/abs/2103.08700)
 ### Multi-Modality Cardiac Image Computing A Survey arXiv 2022 [[paper]]()
 ### Nuclei & Glands Instance Segmentation in Histology Images A Narrative Review arXiv 2022 [[paper]]()
