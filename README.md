@@ -28,6 +28,7 @@
 ### A Review of Deep Learning in Medical Imaging Image Traits Technology Trends Case Studies with Progress Highlights and Future Promises arXiv 2020 [[paper]]()
 ### Medical Image Segmentation Using Deep Learning A Survey arXiv 2020 [[paper]](https://arxiv.org/abs/2009.13120)
 ### Learning-based Algorithms for Vessel Tracking A Review arXiv 2020 [[paper]]()
+### Deep Learning for Cardiac Image Segmentation A Review FCVM 2020 [[paper]](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full)
 ### Deep Learning for Chest X-ray Analysis A Survey arXiv 2021 [[paper]](https://arxiv.org/abs/2103.08700)
 ### Multi-Modality Cardiac Image Computing A Survey arXiv 2022 [[paper]]()
 ### Nuclei & Glands Instance Segmentation in Histology Images A Narrative Review arXiv 2022 [[paper]]()
