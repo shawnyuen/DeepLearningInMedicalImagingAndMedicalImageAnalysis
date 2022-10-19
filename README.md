@@ -56,6 +56,8 @@
 "MoNuSeg"
 ### Deep Learning to Segment Pelvic Bones Large-scale CT Datasets and Baseline Models arXiv 2020 [[paper]]()
 "CTPelvic1K"
+### RibSeg v2 A Large-scale Benchmark for Rib Labeling and Anatomical Centerline Extraction arXiv 2022 [[paper]]()
+"RibSeg"
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Computed Tomography (CT)
