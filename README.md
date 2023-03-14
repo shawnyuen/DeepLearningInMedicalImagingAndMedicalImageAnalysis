@@ -278,8 +278,8 @@
 
 ## 2016
 ### Stacked Deep Polynomial Network Based Representation Learning for Tumor Classification with Small Ultrasound Image Dataset [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231216002344)
-### Real-time Detection and Localisation of Fetal Standard Scan Planes in 2D Freehand Ultrasound 2016 [[paper]]()
-### Real-time Standard Scan Plane Detection and Localisation in Fetal Ultrasound Using Fully Convolutional Neural Networks 2016 [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_24)
+### Real-time Detection and Localisation of Fetal Standard Scan Planes in 2D Freehand Ultrasound 2016 [[paper]](), [[code]](https://github.com/baumgach/SonoNet-weights)
+### Real-time Standard Scan Plane Detection and Localisation in Fetal Ultrasound Using Fully Convolutional Neural Networks 2016 [[paper]](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_24), [[code]](https://github.com/baumgach/SonoNet-weights)
 ### Describing Ultrasound Video Content Using Deep Convolutional Neural Networks 2016 [[paper]](http://ieeexplore.ieee.org/document/7493384/)
 
 ## 2017
